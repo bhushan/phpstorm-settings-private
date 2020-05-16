@@ -1,0 +1,264 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>css</entry>
+        <entry>login</entry>
+        <entry>recor</entry>
+        <entry>try</entry>
+        <entry>tr</entry>
+        <entry>res</entry>
+        <entry>auth</entry>
+        <entry>web</entry>
+        <entry>update</entry>
+        <entry>Document</entry>
+        <entry>add</entry>
+        <entry>protected</entry>
+        <entry>user</entry>
+        <entry>{</entry>
+        <entry>pass</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>386</entry>
+        <entry>w</entry>
+        <entry>%s/Document/Employee/g</entry>
+        <entry>1</entry>
+        <entry>16</entry>
+        <entry>97</entry>
+        <entry>%s/protected/public/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/Feature/Controllers/Auth/VerifyControllerTest.php" timestamp="1589553748714">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="49" />
+        <mark key="." line="4" column="49" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/app/Http/Controllers/GroupController.php" timestamp="1589553429755">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/app/Services/GroupService.php" timestamp="1589552770522">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="31" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/TestCase.php" timestamp="1589553847037">
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589553145325">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/routes/web.php" timestamp="1589553077641">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/.env" timestamp="1589554086200">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="15" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/Code/quickstart/application/models/Guestbook.php" />
+      <jump line="49" column="34" filename="$USER_HOME$/Documents/Code/ecommerce/.zfproject.xml" />
+      <jump line="0" column="17" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/Auth/views/scripts/auth/login.phtml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/Auth/views/scripts/auth/login.phtml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Code/websiteng/application/modules/bastrucks/Bootstrap.php" />
+      <jump line="42" column="4" filename="$USER_HOME$/Documents/Code/ecommerce/application/views/scripts/index/index.phtml" />
+      <jump line="9" column="22" filename="$USER_HOME$/Documents/Code/ecommerce/application/views/scripts/index/index.phtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/views/scripts/index/index.phtml" />
+      <jump line="5" column="13" filename="$USER_HOME$/Documents/Code/ecommerce/application/layouts/scripts/layout.phtml" />
+      <jump line="13" column="9" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/forms/Login.php" />
+      <jump line="34" column="19" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
+      <jump line="2" column="8" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/views/scripts/purchase/verify.phtml" />
+      <jump line="518" column="20" filename="$USER_HOME$/Documents/Code/ecommerce/library/Zend/Form.php" />
+      <jump line="14" column="21" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/PurchaseController.php" />
+      <jump line="15" column="23" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/PurchaseController.php" />
+      <jump line="9" column="19" filename="$USER_HOME$/Documents/Code/ecommerce/application/models/ACL.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/configs/application.ini" />
+      <jump line="244" column="29" filename="$USER_HOME$/workspace/bas/web/application/modules/basworld/controllers/VehicleController.php" />
+      <jump line="313" column="16" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/controllers/IndexController.php" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/controllers/IndexController.php" />
+      <jump line="2" column="10" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/Bootstrap.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/controllers/IndexController.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/controllers/IndexController.php" />
+      <jump line="23" column="4" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/controllers/IndexController.php" />
+      <jump line="28" column="31" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/controllers/IndexController.php" />
+      <jump line="397" column="0" filename="$USER_HOME$/workspace/bas/erp/library/BAS/Shared/Model/Employee/Employee.php" />
+      <jump line="388" column="4" filename="$USER_HOME$/workspace/bas/erp/library/BAS/Shared/Model/Employee/Employee.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/bas/erp/library/BAS/Shared/Model/Employee/Employee.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/workspace/bas/erp/library/BAS/Shared/Model/Employee/Employee.php" />
+      <jump line="19" column="10" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/views/scripts/employee_menu.phtml" />
+      <jump line="684" column="0" filename="$USER_HOME$/workspace/bas/erp/library/BAS/Shared/Model/AbstractMapper.php" />
+      <jump line="1017" column="0" filename="$USER_HOME$/workspace/bas/erp/library/BAS/Shared/Model/AbstractMapper.php" />
+      <jump line="7" column="8" filename="$USER_HOME$/workspace/bas/erp/library/BAS/Shared/Model/Employee/Employee.php" />
+      <jump line="103" column="24" filename="$USER_HOME$/Documents/Code/watermark/resources/js/components/Webcam.vue" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Unit/GroupsieTest.php" />
+      <jump line="6" column="18" filename="$USER_HOME$/Documents/Code/groupsie/tests/Unit/GroupsieTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Unit/GroupsieTest.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Unit/GroupsieTest.php" />
+      <jump line="17" column="13" filename="$USER_HOME$/Documents/Code/groupsie/database/migrations/2020_05_11_094743_create_groupsy_participants_table.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Code/groupsie/app/Groupsy.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Code/groupsie/routes/web.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/CreateGroupsyTest.php" />
+      <jump line="6" column="18" filename="$USER_HOME$/Documents/Code/groupsie/resources/views/groupsies/create.blade.php" />
+      <jump line="42" column="62" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/CreateGroupsyTest.php" />
+      <jump line="69" column="7" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/CreateGroupsyTest.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupsyControllerTest.php" />
+      <jump line="18" column="2" filename="$USER_HOME$/Documents/Code/groupsie/routes/web.php" />
+      <jump line="205" column="39" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupsyControllerTest.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>smtp</text>
+      </register>
+      <register name="-" type="4">
+        <text>smtp</text>
+      </register>
+      <register name="/" type="4">
+        <text>pass</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CSAqIEByZXR1cm4gdm9pZAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgV2ViIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciB3ZWIgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGNvbnRhaW5zIHRoZSAid2ViIiBtaWRkbGV3YXJlIGdyb3VwLiBOb3cgY3JlYXRlIHNvbWV0aGluZyBncmVhdCEKfAoqLwoK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRva2VuID09IG51bGwpIHsKICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnZXJyb3InLCBfXygndmVyaWZ5LWVtYWlsLmludmFsaWRfYWN0aXZhdGlvbl9hdHRlbXB0JykpOwoKICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ2F1dGguZW1haWxWZXJpZmllZCcpOwogICAgICAgIH0KCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5lcnJvcnMgPSB7fTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdG9rZW4gPSAnc29tZS1yYW5kb20tdG9rZW4nOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICdlbWFpbF92ZXJpZmljYXRpb25fdG9rZW4nKS0+bnVsbGFibGUoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnZW1haWxfdmVyaWZpZWQnKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZChzZXNzaW9uKCdlcnJvcicpKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/protected/public/g</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>pass</last-search>
+      <last-offset />
+      <last-pattern>pass</last-pattern>
+      <last-replace>public</last-replace>
+      <last-substitute>protected</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

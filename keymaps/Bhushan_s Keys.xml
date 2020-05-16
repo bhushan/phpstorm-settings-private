@@ -1,0 +1,89 @@
+<keymap version="1" name="Bhushan's Keys" parent="Default for GNOME">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Macro.Format and Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="MethodOverloadSwitchUp" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PhpGeneratePhpDocBlocks">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="RecentFiles" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>

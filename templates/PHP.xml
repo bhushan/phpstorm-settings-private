@@ -1,0 +1,22 @@
+<templateSet group="PHP">
+  <template name="tmet" value="/** @test */&#10;public function it_$NAME$()&#10;{&#10;$END$&#10;}" description="Scaffolds test function/method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="met" value="public function $NAME$($PARAMETERS$)&#10;{&#10;$END$&#10;}" description="Scaffolds public function/method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pmet" value="protected function $NAME$($PARAMETERS$)&#10;{&#10;$END$&#10;}" description="Scaffolds protected function/method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
