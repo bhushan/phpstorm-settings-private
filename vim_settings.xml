@@ -105,11 +105,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/Feature/Controllers/Auth/VerifyControllerTest.php" timestamp="1589553748714">
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="10" column="23" />
+      <file name="/Dummy.txt" timestamp="1589553145325">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ClientCode/groupsie/app/Http/Controllers/GroupController.php" timestamp="1589553429755">
         <mark key="[" line="59" column="0" />
@@ -117,11 +114,22 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/.env" timestamp="1589554086200">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/ClientCode/groupsie/app/Services/GroupService.php" timestamp="1589552770522">
         <mark key="[" line="47" column="31" />
         <mark key="]" line="47" column="31" />
         <mark key="^" line="47" column="31" />
         <mark key="." line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/routes/web.php" timestamp="1589553077641">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/TestCase.php" timestamp="1589553847037">
         <mark key="[" line="11" column="63" />
@@ -129,19 +137,17 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589553145325">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" timestamp="1590190846940">
+        <mark key="[" line="58" column="45" />
+        <mark key="]" line="58" column="87" />
+        <mark key="^" line="58" column="87" />
+        <mark key="." line="58" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/routes/web.php" timestamp="1589553077641">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/.env" timestamp="1589554086200">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="14" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/Feature/Controllers/Auth/VerifyControllerTest.php" timestamp="1589553748714">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="49" />
+        <mark key="." line="4" column="49" />
+        <mark key="^" line="10" column="23" />
       </file>
     </filemarks>
     <jumps>
