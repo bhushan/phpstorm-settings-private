@@ -137,11 +137,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" timestamp="1590190846940">
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="56" column="87" />
-        <mark key="^" line="56" column="87" />
-        <mark key="." line="56" column="86" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" timestamp="1590206463918">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="55" column="45" />
+        <mark key="]" line="55" column="87" />
+        <mark key="^" line="55" column="87" />
+        <mark key="." line="55" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/Feature/Controllers/Auth/VerifyControllerTest.php" timestamp="1589553748714">
         <mark key="[" line="4" column="49" />
@@ -201,6 +202,7 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupsyControllerTest.php" />
       <jump line="18" column="2" filename="$USER_HOME$/Documents/Code/groupsie/routes/web.php" />
       <jump line="205" column="39" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupsyControllerTest.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
