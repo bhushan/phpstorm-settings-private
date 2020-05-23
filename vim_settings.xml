@@ -114,6 +114,12 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ClientCode/groupsie/.env" timestamp="1589554086200">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/ClientCode/groupsie/app/Services/GroupService.php" timestamp="1589552770522">
         <mark key="[" line="47" column="31" />
         <mark key="]" line="47" column="31" />
@@ -130,12 +136,6 @@
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/.env" timestamp="1589554086200">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="14" />
-        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" timestamp="1590190846940">
         <mark key="[" line="56" column="45" />
