@@ -105,10 +105,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/InviteGroupParticipant.php" timestamp="1590474342989">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupController.php" timestamp="1590475944854">
+        <mark key="[" line="91" column="41" />
+        <mark key="]" line="90" column="5" />
+        <mark key="^" line="90" column="5" />
+        <mark key="." line="90" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Repositories/Repository.php" timestamp="1590475855585">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/InviteGroupParticipant.php" timestamp="1590482984110">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ImageController.php" timestamp="1590475652818">
         <mark key="[" line="25" column="32" />
@@ -122,28 +133,22 @@
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupController.php" timestamp="1590475944854">
-        <mark key="[" line="91" column="41" />
-        <mark key="]" line="90" column="5" />
-        <mark key="^" line="90" column="5" />
-        <mark key="." line="90" column="4" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/GroupInitiated.php" timestamp="1590482970245">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Repositories/Repository.php" timestamp="1590475855585">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupShareController.php" timestamp="1590480054451">
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="38" column="43" />
-        <mark key="." line="38" column="42" />
-        <mark key="^" line="38" column="43" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/VerifyEmail.php" timestamp="1590483003419">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1590480045525">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="118" column="32" />
-        <mark key="]" line="118" column="34" />
-        <mark key="^" line="118" column="34" />
-        <mark key="." line="118" column="33" />
+        <mark key="[" line="115" column="32" />
+        <mark key="]" line="115" column="34" />
+        <mark key="^" line="115" column="34" />
+        <mark key="." line="115" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -204,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGdyb3VwLT5wYXJ0aWNpcGFudHMoKQogICAgICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICchPScsICRncm91cC0+aW5pdGlhdG9yLT5pZCkKICAgICAgICAgICAgICAgIC0+Z2V0KFsndXNlcnMuaWQnLCAnbmFtZScsICdlbWFpbCddKQogICAgICAgICAgICAgICAgLT5tYWtlSGlkZGVuKCdwaXZvdCcp</text>
+        <text>sModels</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>sModels</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
