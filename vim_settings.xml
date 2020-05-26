@@ -105,49 +105,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589553145325">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/InviteGroupParticipant.php" timestamp="1590474342989">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/app/Http/Controllers/GroupController.php" timestamp="1589553429755">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupShareController.php" timestamp="1590474992962">
+        <mark key="[" line="34" column="86" />
+        <mark key="]" line="34" column="101" />
+        <mark key="." line="34" column="100" />
+        <mark key="^" line="34" column="101" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ImageController.php" timestamp="1590207628163">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1590474606037">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="85" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/manage-group.blade.php" timestamp="1590220572801" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ImageController.php" timestamp="1590474853356">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/ClientCode/groupsie/.env" timestamp="1589554086200">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/app/Services/GroupService.php" timestamp="1589552770522">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="31" />
-        <mark key="^" line="47" column="31" />
-        <mark key="." line="47" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/routes/web.php" timestamp="1589553077641">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/TestCase.php" timestamp="1589553847037">
-        <mark key="[" line="11" column="63" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/ClientCode/groupsie/tests/Feature/Controllers/Auth/VerifyControllerTest.php" timestamp="1589553748714">
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="10" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -206,44 +191,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>groupService</text>
       </register>
       <register name="-" type="4">
-        <text>smtp</text>
+        <text>groupService</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4gdm9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAkZ3JvdXAgPSAkZ3JvdXBSZXBvc2l0b3J5LT53aGVyZUJ5Rmlyc3QoJG1hbmFnZUdyb3VwUmVxdWVzdC0+dmFsaWRhdGVkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkZ3JvdXAgPSAkZ3JvdXBTZXJ2aWNlLT5maW5kKCRtYW5hZ2VHcm91cFJlcXVlc3QtPnZhbGlkYXRlZCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8PDw8CiAgICAgICAgPDw8IEhFQUQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICRpbWFnZVNlcnZpY2UtPnJlc2l6ZUFuZFN0b3JlKCRpbWFnZSwgJHBhdGgsIDQwMCwgZmFsc2UpOwoKICAgICAgICByZXR1cm4gYXNzZXQoJ2ltYWdlcy8nIC4gJHBhdGgpOwo+Pj4+Pj4+IGZlYXR1cmUvR3JvdXAtMTgK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRmluZHMgZmlyc3QgR3JvdXAgd2l0aCBnaXZlbiBjb25kaXRpb25zCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICRkYXRhCiAgICAgKiBAcmV0dXJuIE1vZGVsfG51bGwKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZpbmQoYXJyYXkgJGRhdGEpOiA/TW9kZWwKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdyb3VwUmVwb3NpdG9yeS0+d2hlcmVCeUZpcnN0KCRkYXRhKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgcHVibGljIGZ1bmN0aW9uIHN0b3JlSW5pdGlhdG9ySW1hZ2UoSW1hZ2VSZXF1ZXN0ICRyZXF1ZXN0LCBJbWFnZVNlcnZpY2UgJGltYWdlU2VydmljZSwgR3JvdXBTZXJ2aWNlICRncm91cFNlcnZpY2UpOiBzdHJpbmcKPj4+Pj4+PiBmZWF0dXJlL0dyb3VwLTE4Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PDw8CiAgICAgICAgPDw8IEhFQUQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgV2ViIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciB3ZWIgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGNvbnRhaW5zIHRoZSAid2ViIiBtaWRkbGV3YXJlIGdyb3VwLiBOb3cgY3JlYXRlIHNvbWV0aGluZyBncmVhdCEKfAoqLwoK</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICRpbWFnZVNlcnZpY2UtPnJlc2l6ZUFuZFN0b3JlKCRpbWFnZSwgJHBhdGgsIDQwMCwgZmFsc2UpOwoKICAgICAgICByZXR1cm4gYXNzZXQoJ2ltYWdlcy8nIC4gJHBhdGgpOwo+Pj4+Pj4+IGZlYXR1cmUvR3JvdXAtMTgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRva2VuID09IG51bGwpIHsKICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnZXJyb3InLCBfXygndmVyaWZ5LWVtYWlsLmludmFsaWRfYWN0aXZhdGlvbl9hdHRlbXB0JykpOwoKICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ2F1dGguZW1haWxWZXJpZmllZCcpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5lcnJvcnMgPSB7fTsK</text>
+        <text encoding="base64">PT09PT09PQogICAgcHVibGljIGZ1bmN0aW9uIHN0b3JlSW5pdGlhdG9ySW1hZ2UoSW1hZ2VSZXF1ZXN0ICRyZXF1ZXN0LCBJbWFnZVNlcnZpY2UgJGltYWdlU2VydmljZSwgR3JvdXBTZXJ2aWNlICRncm91cFNlcnZpY2UpOiBzdHJpbmcKPj4+Pj4+PiBmZWF0dXJlL0dyb3VwLTE4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgV2ViIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciB3ZWIgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGNvbnRhaW5zIHRoZSAid2ViIiBtaWRkbGV3YXJlIGdyb3VwLiBOb3cgY3JlYXRlIHNvbWV0aGluZyBncmVhdCEKfAoqLwoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
