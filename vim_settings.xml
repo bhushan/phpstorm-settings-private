@@ -137,11 +137,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupController.php" timestamp="1590475944854">
-        <mark key="[" line="91" column="41" />
-        <mark key="]" line="90" column="5" />
-        <mark key="^" line="90" column="5" />
-        <mark key="." line="90" column="4" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupController.php" timestamp="1590565128700">
+        <mark key="[" line="95" column="59" />
+        <mark key="]" line="96" column="8" />
+        <mark key="^" line="96" column="8" />
+        <mark key="." line="96" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Repositories/Repository.php" timestamp="1590475855585">
         <mark key="[" line="4" column="0" />
@@ -219,16 +219,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>to</text>
+        <text>vali</text>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>vali</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
       <register name="0" type="4">
-        <text>getParticipantsWithoutInitiator</text>
+        <text>validatedData</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">JGdyb3VwLT5wYXJ0aWNpcGFudHMoKQogICAgICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICchPScsICRncm91cC0+aW5pdGlhdG9yLT5pZCkKICAgICAgICAgICAgICAgIC0+Z2V0KFsndXNlcnMuaWQnLCAnbmFtZScsICdlbWFpbCddKQogICAgICAgICAgICAgICAgLT5tYWtlSGlkZGVuKCdwaXZvdCcp</text>
