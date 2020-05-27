@@ -148,18 +148,17 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1590604837079">
-        <mark key="'" line="314" column="4" />
-        <mark key="[" line="362" column="75" />
-        <mark key="]" line="362" column="86" />
-        <mark key="." line="362" column="85" />
-        <mark key="^" line="362" column="86" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1590608337343">
+        <mark key="[" line="379" column="115" />
+        <mark key="]" line="383" column="9" />
+        <mark key="." line="383" column="8" />
+        <mark key="^" line="383" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590604845009">
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="52" />
-        <mark key="." line="18" column="51" />
-        <mark key="^" line="18" column="52" />
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/ImageService.php" timestamp="1590595837218">
         <mark key="[" line="52" column="21" />
@@ -172,12 +171,6 @@
         <mark key="]" line="13" column="31" />
         <mark key="^" line="86" column="7" />
         <mark key="." line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/show-invite.blade.php" timestamp="1590605344957">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="21" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Listeners/VerifyEmailListener.php" timestamp="1590585564548">
         <mark key="[" line="15" column="12" />
@@ -258,17 +251,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>manage</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIFlvdSBhcmUgaW52aXRlZCBieSB7eyAkZ3JvdXAtPmluaXRpYXRvci0+bmFtZSB9fSB0byBtYWtlIGEgR3JvdXBzaWUKICAgICAgICAgICAgICAgICAgICBmb3Ige3sgJGdyb3VwLT5ncm91cF9uYW1lIH19e3sgJGdyb3VwLT5jbGFzc19uYW1lID8gJywgJyAuICRncm91cC0+Y2xhc3NfbmFtZSA6ICcnIH19LgogICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgJGdyb3VwLT5wYXJ0aWNpcGFudHMoKS0+YXR0YWNoKCRwYXJ0aWNpcGFudCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
