@@ -111,6 +111,7 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Requests/ManageInviteRequest.php" timestamp="1590565843069" />
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ImageController.php" timestamp="1590475652818">
         <mark key="[" line="25" column="32" />
         <mark key="]" line="25" column="42" />
@@ -152,6 +153,12 @@
         <mark key="]" line="54" column="20" />
         <mark key="." line="54" column="19" />
         <mark key="^" line="54" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590566166653">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="102" />
+        <mark key="^" line="17" column="102" />
+        <mark key="." line="17" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1590480045525">
         <mark key="[" line="112" column="32" />
