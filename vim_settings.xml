@@ -105,23 +105,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/create.blade.php" timestamp="1590874885011">
+        <mark key="[" line="12" column="103" />
+        <mark key="]" line="12" column="103" />
+        <mark key="." line="12" column="103" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Requests/ManageInviteRequest.php" timestamp="1590604857329">
         <mark key="[" line="30" column="13" />
         <mark key="]" line="30" column="24" />
         <mark key="^" line="30" column="24" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupShareControllerTest.php" timestamp="1590588187858">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="145" column="12" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="139" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/_address-fields.blade.php" timestamp="1590874336356">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="57" column="78" />
+        <mark key="]" line="57" column="79" />
+        <mark key="." line="57" column="78" />
+        <mark key="^" line="57" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/manage-invite.blade.php" timestamp="1590606109679">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/show-address-form.blade.php" timestamp="1590874911891">
+        <mark key="[" line="12" column="103" />
+        <mark key="]" line="12" column="103" />
+        <mark key="." line="12" column="103" />
+        <mark key="^" line="18" column="138" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/CopyLinkShare.vue" timestamp="1590828375943">
         <mark key="[" line="34" column="0" />
@@ -132,6 +143,12 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590873450348">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/ImageService.php" timestamp="1590595837218">
         <mark key="[" line="52" column="21" />
@@ -145,17 +162,47 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Requests/StoreParticipantAddressRequest.php" timestamp="1590871073443" />
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GenerateCollageGridService.php" timestamp="1590588880177">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="31" />
         <mark key="^" line="86" column="7" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/show-invite.blade.php" timestamp="1590862103195">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="28" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/take-picture.blade.php" timestamp="1590870396283">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Requests/ShowAddressFormRequest.php" timestamp="1590871191715">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/show-invite.blade.php" timestamp="1590874752066">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupParticipantController.php" timestamp="1590874278164">
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="34" />
+        <mark key="^" line="47" column="34" />
+        <mark key="." line="47" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/scss/pages/_groupsie.scss" timestamp="1590874703091">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="28" column="9" />
+        <mark key="." line="28" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" timestamp="1590874142901">
+        <mark key="[" line="109" column="80" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -221,48 +268,49 @@
       <jump line="48" column="12" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupShareControllerTest.php" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupShareControllerTest.php" />
       <jump line="14" column="6" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupShareControllerTest.php" />
+      <jump line="3" column="21" filename="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/_address-fields.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBIaSBSb2JlcnQs</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBIaSBSb2JlcnQs</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJGdyb3VwLT5wYXJ0aWNpcGFudHMoKS0+YXR0YWNoKCRwYXJ0aWNpcGFudCk7Cg==</text>
+      <register name="0" type="4">
+        <text>testVerifiesNoInvalidDataIsStoredInAddressFields</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjwvYm9keT4KCjwvaHRtbD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdHMgdmFsaWRhdGlvbiBmb3IgcmVxdWlyZWQgZmllbGRzLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFN0b3JlUGFydGljaXBhbnRBZGRyZXNzUmVxdWlyZXNBbGxGaWVsZHMoKQogICAgewogICAgICAgICR0aGlzLT53aXRoRXhjZXB0aW9uSGFuZGxpbmcoKTsKCiAgICAgICAgJHRoaXMtPnBvc3Qocm91dGUoJ2dyb3VwLnBhcnRpY2lwYW50cy5hZGRyZXNzLnN0b3JlJyksIFsKCiAgICAgICAgXSktPmFzc2VydFNlc3Npb25IYXNFcnJvcnMoWwogICAgICAgICAgICAnZ3JvdXBfdG9rZW4nLAogICAgICAgICAgICAncGFydGljaXBhbnRfaWQnLAogICAgICAgICAgICAnc3RyZWV0JywKICAgICAgICAgICAgJ3N0cmVldF9udW1iZXInLAogICAgICAgICAgICAnemlwX2NvZGUnLAogICAgICAgICAgICAnY2l0eScsCiAgICAgICAgICAgICdjb3VudHJ5JywKICAgICAgICBdKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KCjxib2R5Pgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdHMgdGhlIHBhcnRpY2lwYW50IGFkZHJlc3Mgc3RvcmVkIHN1Y2Nlc3NmdWxseS4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RTdG9yZVBhcnRpY2lwYW50QWRkcmVzcygpCiAgICB7CiAgICAgICAgJGdyb3VwID0gZmFjdG9yeShHcm91cDo6Y2xhc3MpLT5jcmVhdGUoKTsKICAgICAgICAkcGFydGljaXBhbnQgPSBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKCk7CiAgICAgICAgJGdyb3VwLT5wYXJ0aWNpcGFudHMoKS0+c3luYyhbJGdyb3VwLT5pbml0aWF0b3ItPmlkLCAkcGFydGljaXBhbnQtPmlkXSk7CgogICAgICAgICRjb3VudHJ5ID0gZmFjdG9yeShDb3VudHJ5OjpjbGFzcyktPmNyZWF0ZSgpOwoKICAgICAgICAkZGF0YSA9IFsKICAgICAgICAgICAgJ2dyb3VwX3Rva2VuJyA9PiAkZ3JvdXAtPnRva2VuLAogICAgICAgICAgICAncGFydGljaXBhbnRfaWQnID0+ICRwYXJ0aWNpcGFudC0+aWQsCiAgICAgICAgICAgICdzdHJlZXQnID0+ICdUZXN0IFN0cmVldCcsCiAgICAgICAgICAgICdzdHJlZXRfbnVtYmVyJyA9PiAnMTIzJywKICAgICAgICAgICAgJ3ppcF9jb2RlJyA9PiAnMTIzNCBBQicsCiAgICAgICAgICAgICdjaXR5JyA9PiAnVGVzdCBDaXR5JywKICAgICAgICAgICAgJ2NvdW50cnknID0+ICRjb3VudHJ5LT5pZCwKICAgICAgICBdOwoKICAgICAgICAkdGhpcy0+cG9zdChyb3V0ZSgnZ3JvdXAucGFydGljaXBhbnQuYWRkcmVzcy5zdG9yZScpLCAkZGF0YSkKICAgICAgICAgICAgLT5hc3NlcnRSZWRpcmVjdCgpOwoKICAgICAgICAkcGFydGljaXBhbnREYXRhID0gQXJyOjpvbmx5KCRkYXRhLCBbJ3N0cmVldCcsICdzdHJlZXRfbnVtYmVyJywgJ3ppcF9jb2RlJywgJ2NpdHknXSk7CiAgICAgICAgJHBhcnRpY2lwYW50RGF0YVsnZ3JvdXBfaWQnXSA9ICRncm91cC0+aWQ7CiAgICAgICAgJHBhcnRpY2lwYW50RGF0YVsnY291bnRyeV9pZCddID0gJGRhdGFbJ2NvdW50cnknXTsKICAgICAgICAkcGFydGljaXBhbnREYXRhWyd1c2VyX2lkJ10gPSAkZGF0YVsncGFydGljaXBhbnRfaWQnXTsKCiAgICAgICAgJHRoaXMtPmFzc2VydERhdGFiYXNlSGFzKCdncm91cF9wYXJ0aWNpcGFudCcsICRwYXJ0aWNpcGFudERhdGEpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCJVbmlxdWUgTGluayBDb3BpZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">KioKICAgICAqIFRlc3RzIHBhcnRpY2lwYW50cyBhZGRyZXNzIGZvcm0gd2l0aCBpbnZhbGlkIGdyb3VwIHRva2VuLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFNob3dBZGRyZXNzRm9ybVdpdGhJbnZhbGlkR3JvdXBUb2tlbigpCiAgICB7CiAgICAgICAgJHRoaXMtPndpdGhFeGNlcHRpb25IYW5kbGluZygpOwoKICAgICAgICAkZ3JvdXAgPSBmYWN0b3J5KEdyb3VwOjpjbGFzcyktPmNyZWF0ZSgpOwogICAgICAgICRwYXJ0aWNpcGFudCA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKICAgICAgICAkZ3JvdXAtPnBhcnRpY2lwYW50cygpLT5zeW5jKFskZ3JvdXAtPmluaXRpYXRvci0+aWQsICRwYXJ0aWNpcGFudC0+aWRdKTsKCiAgICAgICAgJHRoaXMtPmdldChyb3V0ZSgnZ3JvdXAucGFydGljaXBhbnRzLnNob3ctYWRkcmVzcy1mb3JtJywKICAgICAgICAgICAgICAgIFsndG9rZW4nID0+ICR0aGlzLT5mYWtlci0+dXVpZCwgJ3BhcnRpY2lwYW50X2lkJyA9PiAkcGFydGljaXBhbnQtPmlkXSkKICAgICAgICApLT5hc3NlcnROb3RGb3VuZCgpOwogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCBWZXJpZmllcyBUaGF0IE5vIEFkZHJlc3MgRm9ybSBJcyBTaG93biBHaXZlbiBJbnZhbGlkIERhdGEKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RWZXJpZmllc1RoYXROb0FkZHJlc3NGb3JtSXNTaG93bkdpdmVuSW52YWxpZERhdGEoKQogICAgewogICAgICAgICR0aGlzLT53aXRoRXhjZXB0aW9uSGFuZGxpbmcoKTsKCiAgICAgICAgJGdyb3VwID0gZmFjdG9yeShHcm91cDo6Y2xhc3MpLT5jcmVhdGUoKTsKICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKCiAgICAgICAgJHRoaXMtPmdldChyb3V0ZSgnZ3JvdXAucGFydGljaXBhbnQuc2hvdy1hZGRyZXNzLWZvcm0nLAogICAgICAgICAgICAgICAgWyd0b2tlbicgPT4gJGdyb3VwLT50b2tlbiwgJ3BhcnRpY2lwYW50X2lkJyA9PiA5OTk5OTk5OTldKQogICAgICAgICktPmFzc2VydE5vdEZvdW5kKCk7CgogICAgICAgICR0aGlzLT5nZXQocm91dGUoJ2dyb3VwLnBhcnRpY2lwYW50cy5zaG93LWFkZHJlc3MtZm9ybScsCiAgICAgICAgICAgICAgICBbJ3Rva2VuJyA9PiAnZHVtbXktdG9rZW4nLCAncGFydGljaXBhbnRfaWQnID0+ICR1c2VyLT5pZF0pCiAgICAgICAgKS0+YXNzZXJ0Tm90Rm91bmQoKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiNC0+PC9iNC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBZb3UgYXJlIGludml0ZWQgYnkge3sgJGdyb3VwLT5pbml0aWF0b3ItPm5hbWUgfX0gdG8gbWFrZSBhIEdyb3Vwc2llCiAgICAgICAgICAgICAgICAgICAgZm9yIHt7ICRncm91cC0+Z3JvdXBfbmFtZSB9fXt7ICRncm91cC0+Y2xhc3NfbmFtZSA/ICcsICcgLiAkZ3JvdXAtPmNsYXNzX25hbWUgOiAnJyB9fS4K</text>
+        <text encoding="base64">CiAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAKICAgICAgICBdOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWFuYWdlSW52aXRlUmVxdWVzdC0+dmFsaWRhdGVkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIEFsbCB5b3UgaGF2ZSB0byBkbyBpcyBjbGljayBvbiB5b3VyIG5hbWUsIGVudGVyIHlvdXIgZW1haWwgYWRkcmVzcyBhbmQgdGFrZSBhIHNlbGZpZSB3aXRoIHlvdXIKICAgICAgICAgICAgICAgICAgICB3ZWJjYW0gb3IgcGhvbmUuIFdoZW4gYWxsIHlvdXIgY2xhc3NtYXRlcyBoYXZlIHRha2VuIGEgc2VsZmllLCB5b3UgY2FuIG9yZGVyIHRoZSBlbmQgcmVzdWx0LgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGgyPlNlbGVjdCB5b3VyIG5hbWU8L2gyPgogICAgICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgICAgIEBmb3JlYWNoICgkcGFydGljaXBhbnRzIGFzICRwYXJ0aWNpcGFudCkKICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2dyb3VwLm1hbmFnZUludml0ZScsIFsndG9rZW4nID0+ICRncm91cC0+dG9rZW4sICdwYXJ0aWNpcGFudCcgPT4gJHBhcnRpY2lwYW50LT5pZF0pIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyAkcGFydGljaXBhbnQtPm5hbWUgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgIDxwPjxhIGhyZWY9IiMiPnt7IF9fKCdJIGFtIG5vdCBvbiB0aGUgbGlzdCcpIH19PC9hPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
