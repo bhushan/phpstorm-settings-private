@@ -144,12 +144,6 @@
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590873450348">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/ImageService.php" timestamp="1590595837218">
         <mark key="[" line="52" column="21" />
         <mark key="]" line="52" column="30" />
@@ -196,11 +190,6 @@
         <mark key="]" line="28" column="9" />
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" timestamp="1590901901483">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
       </file>
     </filemarks>
     <jumps>
