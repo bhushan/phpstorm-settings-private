@@ -120,11 +120,11 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupParticipantController.php" timestamp="1590912754738">
-        <mark key="[" line="105" column="8" />
-        <mark key="]" line="108" column="79" />
-        <mark key="." line="108" column="78" />
-        <mark key="^" line="108" column="79" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupParticipantController.php" timestamp="1590915834234">
+        <mark key="[" line="87" column="53" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1590910433045">
         <mark key="'" line="97" column="4" />
@@ -143,12 +143,12 @@
         <mark key="]" line="112" column="60" />
         <mark key="." line="112" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" timestamp="1590912527874">
-        <mark key="'" line="88" column="37" />
-        <mark key="[" line="93" column="35" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="90" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" timestamp="1590915659807">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="238" column="36" />
+        <mark key="]" line="238" column="48" />
+        <mark key="^" line="238" column="48" />
+        <mark key="." line="238" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -219,48 +219,49 @@
       <jump line="125" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" />
       <jump line="97" column="4" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupControllerTest.php" />
       <jump line="88" column="37" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>address</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>address</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ2dyb3VwLnBhcnRpY2lwYW50LnNob3ctdGFrZS1waWN0dXJlLWZvcm0nLCBbCiAgICAgICAgICAgICd0b2tlbicgPT4gJHJlcXVlc3QtPmdyb3VwX3Rva2VuLCAncGFydGljaXBhbnRfaWQnID0+ICRyZXF1ZXN0LT5wYXJ0aWNpcGFudF9pZAogICAgICAgIF0pKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCBWZXJpZmllcyBUaGF0IE5vIEFkZHJlc3MgRm9ybSBJcyBTaG93biBHaXZlbiBJbnZhbGlkIERhdGEKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RWZXJpZmllc1RoYXROb0FkZHJlc3NGb3JtSXNTaG93bkdpdmVuSW52YWxpZERhdGEoKQogICAgewogICAgICAgICR0aGlzLT53aXRoRXhjZXB0aW9uSGFuZGxpbmcoKTsKCiAgICAgICAgJG5vdFBhcnRpY2lwYW50ID0gZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZSgpOwoKICAgICAgICAkdGhpcy0+Z2V0KHJvdXRlKAogICAgICAgICAgICAnZ3JvdXAucGFydGljaXBhbnQuc2hvdy1hZGRyZXNzLWZvcm0nLAogICAgICAgICAgICBbJ3Rva2VuJyA9PiAkdGhpcy0+Z3JvdXAtPnRva2VuLCAncGFydGljaXBhbnRfaWQnID0+IDk5OTk5OTk5OV0KICAgICAgICApKS0+YXNzZXJ0Tm90Rm91bmQoKTsKCiAgICAgICAgJHRoaXMtPmdldChyb3V0ZSgKICAgICAgICAgICAgJ2dyb3VwLnBhcnRpY2lwYW50LnNob3ctYWRkcmVzcy1mb3JtJywKICAgICAgICAgICAgWyd0b2tlbicgPT4gJ2R1bW15LXRva2VuJywgJ3BhcnRpY2lwYW50X2lkJyA9PiAkbm90UGFydGljaXBhbnQtPmlkXQogICAgICAgICkpLT5hc3NlcnROb3RGb3VuZCgpOwoKICAgICAgICAkdGhpcy0+Z2V0KHJvdXRlKAogICAgICAgICAgICAnZ3JvdXAucGFydGljaXBhbnQuc2hvdy1hZGRyZXNzLWZvcm0nLAogICAgICAgICAgICBbJ3Rva2VuJyA9PiAkdGhpcy0+Z3JvdXAtPnRva2VuLCAncGFydGljaXBhbnRfaWQnID0+ICRub3RQYXJ0aWNpcGFudC0+aWRdCiAgICAgICAgKSktPmFzc2VydE5vdEZvdW5kKCk7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgZGQoJHJlcXVlc3QtPnZhbGlkYXRlZCgpKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVG8gc2hvdyB0YWtlIHBpY3R1cmUgdmlldyB0byBwYXJ0aWNpcGFudC4KICAgICAqCiAgICAgKiBAcmV0dXJuIFZpZXcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRha2VQYXJ0aWNpcGFudFBpY3R1cmUoKTogVmlldwogICAgewogICAgICAgIHJldHVybiBWaWV3KCdncm91cHMucGFydGljaXBhbnQudGFrZS1waWN0dXJlJyk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ3BhcnRpY2lwYW50LmdldEltYWdlJywgWyd0b2tlbicgPT4gJHJlcXVlc3QtPmdyb3VwX3Rva2VuXSkpOwo=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIFZpZXcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRha2VQYXJ0aWNpcGFudFBpY3R1cmUoKTogVmlldwogICAgewo=</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgZGQoJHJlcXVlc3QtPnZhbGlkYXRlZCgpKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ3BhcnRpY2lwYW50LmdldEltYWdlJywgWyd0b2tlbicgPT4gJHJlcXVlc3QtPmdyb3VwX3Rva2VuXSkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2dyb3VwL3t0b2tlbn0vaW1hZ2UvcGFydGljaXBhbnQnLCAnR3JvdXBQYXJ0aWNpcGFudENvbnRyb2xsZXJAdGFrZVBhcnRpY2lwYW50UGljdHVyZScpCiAgICAtPm5hbWUoJ3BhcnRpY2lwYW50LmdldEltYWdlJyk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgZGQoJHJlcXVlc3QtPnZhbGlkYXRlZCgpKTs=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9Sb3V0ZTo6Z2V0KCcvbG9naW4nLCAnQXV0aFxMb2dpbkNvbnRyb2xsZXJAU2hvd0xvZ2luRm9ybScpLT5uYW1lKCdsb2dpbicpOwo=</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL2dyb3VwL3t0b2tlbn0vaW1hZ2UvcGFydGljaXBhbnQnLCAnR3JvdXBQYXJ0aWNpcGFudENvbnRyb2xsZXJAdGFrZVBhcnRpY2lwYW50UGljdHVyZScpCiAgICAtPm5hbWUoJ3BhcnRpY2lwYW50LmdldEltYWdlJyk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9Sb3V0ZTo6Z2V0KCcvbG9naW4nLCAnQXV0aFxMb2dpbkNvbnRyb2xsZXJAU2hvd0xvZ2luRm9ybScpLT5uYW1lKCdsb2dpbicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
