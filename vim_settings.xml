@@ -129,11 +129,11 @@
       <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1590910433045">
         <mark key="'" line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590912006002">
-        <mark key="[" line="25" column="104" />
-        <mark key="]" line="25" column="126" />
-        <mark key="^" line="25" column="126" />
-        <mark key="." line="25" column="125" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590914445017">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/Auth/RegisterController.php" timestamp="1590913229379">
         <mark key="[" line="6" column="44" />
