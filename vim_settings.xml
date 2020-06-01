@@ -115,6 +115,30 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ManageGroupController.php" timestamp="1591041921251">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="36" />
+        <mark key="^" line="51" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/mails/order-invitation.blade.php" timestamp="1591033715926">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="39" column="22" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Listeners/InviteParticipantToOrderGroupListener.php" timestamp="1591033648566">
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="27" column="84" />
+        <mark key="^" line="27" column="84" />
+        <mark key="." line="27" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Providers/EventServiceProvider.php" timestamp="1591031944887">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Listeners/InviteParticipantsToOrderGroupListener.php" timestamp="1591032425394">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="32" />
@@ -141,6 +165,13 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/NotifyParticipants.vue" timestamp="1591027037238">
+        <mark key="i" line="54" column="53" />
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="95" />
+        <mark key="^" line="7" column="95" />
+        <mark key="." line="7" column="94" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/manage/index.blade.php" timestamp="1591027134778">
         <mark key="[" line="76" column="72" />
         <mark key="]" line="76" column="72" />
@@ -153,50 +184,18 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1591033582966">
-        <mark key="[" line="160" column="72" />
-        <mark key="]" line="160" column="83" />
-        <mark key="." line="160" column="82" />
-        <mark key="^" line="160" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ManageGroupController.php" timestamp="1591031019924">
-        <mark key="[" line="48" column="66" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/mails/order-invitation.blade.php" timestamp="1591033715926">
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Listeners/InviteParticipantToOrderGroupListener.php" timestamp="1591033648566">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="27" column="84" />
-        <mark key="^" line="27" column="84" />
-        <mark key="." line="27" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Providers/EventServiceProvider.php" timestamp="1591031944887">
-        <mark key="[" line="33" column="38" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/NotifyParticipants.vue" timestamp="1591027037238">
-        <mark key="i" line="54" column="53" />
-        <mark key="[" line="7" column="80" />
-        <mark key="]" line="7" column="95" />
-        <mark key="^" line="7" column="95" />
-        <mark key="." line="7" column="94" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Mails/OrderInviteMail.php" timestamp="1591033684016">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="20" />
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupParticipantService.php" timestamp="1591033338757" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1591041850236">
+        <mark key="[" line="140" column="36" />
+        <mark key="]" line="140" column="37" />
+        <mark key="." line="140" column="37" />
+        <mark key="^" line="160" column="83" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="62" column="0" filename="$USER_HOME$/Documents/Code/quickstart/application/models/Guestbook.php" />
