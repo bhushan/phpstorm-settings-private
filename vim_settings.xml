@@ -114,22 +114,16 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupShareControllerTest.php" timestamp="1590910077567">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="182" column="5" />
-        <mark key="^" line="155" column="5" />
-        <mark key="." line="155" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Rules/IsValidParticipantOfGroup.php" timestamp="1590930119230">
         <mark key="[" line="52" column="5" />
         <mark key="]" line="52" column="5" />
         <mark key="." line="52" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupController.php" timestamp="1590931595659">
-        <mark key="[" line="79" column="28" />
-        <mark key="]" line="80" column="46" />
-        <mark key="." line="80" column="45" />
-        <mark key="^" line="80" column="46" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupController.php" timestamp="1590996565236">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="40" />
+        <mark key="." line="74" column="39" />
+        <mark key="^" line="74" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/share.blade.php" timestamp="1590933036817">
         <mark key="[" line="8" column="69" />
@@ -143,14 +137,18 @@
         <mark key="." line="33" column="88" />
         <mark key="^" line="33" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1590910433045">
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1590996236557">
         <mark key="'" line="97" column="4" />
+        <mark key="[" line="304" column="32" />
+        <mark key="]" line="304" column="54" />
+        <mark key="." line="304" column="53" />
+        <mark key="^" line="304" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590932871559">
-        <mark key="[" line="27" column="110" />
-        <mark key="]" line="27" column="114" />
-        <mark key="." line="27" column="113" />
-        <mark key="^" line="27" column="114" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1590996548103">
+        <mark key="[" line="16" column="77" />
+        <mark key="]" line="16" column="96" />
+        <mark key="." line="16" column="96" />
+        <mark key="^" line="16" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/Auth/RegisterController.php" timestamp="1590913229379">
         <mark key="[" line="6" column="44" />
@@ -160,6 +158,12 @@
         <mark key="]" line="82" column="55" />
         <mark key="." line="82" column="54" />
         <mark key="^" line="82" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/mails/manage-link.blade.php" timestamp="1590996504646">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="54" />
+        <mark key="^" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ImageController.php" timestamp="1590931100443">
         <mark key="[" line="30" column="0" />
@@ -171,11 +175,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Models/Group.php" timestamp="1590910020726">
-        <mark key="[" line="68" column="88" />
-        <mark key="]" line="67" column="5" />
-        <mark key="^" line="67" column="5" />
-        <mark key="." line="67" column="4" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ManageGroupControllerTest.php" timestamp="1590995993509">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupParticipantController.php" timestamp="1590932979318">
         <mark key="[" line="149" column="48" />
@@ -183,9 +187,9 @@
         <mark key="." line="150" column="6" />
         <mark key="^" line="150" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" timestamp="1590931312340">
-        <mark key="[" line="48" column="57" />
-        <mark key="]" line="49" column="8" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" timestamp="1590995730472">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="35" />
         <mark key="^" line="49" column="8" />
         <mark key="." line="49" column="7" />
       </file>
@@ -194,11 +198,6 @@
         <mark key="]" line="85" column="79" />
         <mark key="." line="85" column="78" />
         <mark key="^" line="85" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupParticipantService.php" timestamp="1590912715740">
-        <mark key="[" line="112" column="60" />
-        <mark key="]" line="112" column="60" />
-        <mark key="." line="112" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/GroupParticipantControllerTest.php" timestamp="1590929921586">
         <mark key="'" line="22" column="0" />
@@ -281,44 +280,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUoJ2dyb3Vwcy5fY3JlYXRlLXN0ZXAtdGhyZWUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>manageGroup</text>
       </register>
       <register name="-" type="4">
-        <text>Tooks</text>
+        <text>manageGroup</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKCkBzZWN0aW9uKCdjb250ZW50JykKICAgIDxzZWN0aW9uIGNsYXNzPSJwYWdlLWNvbnRhaW5lciBkLWZsZXggZmxleC13cmFwICI+CgogICAgICAgIDxhc2lkZSBjbGFzcz0icGFnZV9fc2lkZWJhciBjb2wtbGctMiI+CiAgICAgICAgPC9hc2lkZT4KCiAgICAgICAgPG1haW4gY2xhc3M9InBhZ2VfX2NvbnRlbnQgY29sLWxnLTUgcHQtbGctNSBtdC1sZy01IG1iLWxnLTUiPgogICAgICAgICAgICBAaW5jbHVkZSgnZ3JvdXBzLl9jcmVhdGUtc3RlcC10aHJlZScpCiAgICAgICAgPC9tYWluPgoKICAgIDwvc2VjdGlvbj4KQGVuZHNlY3Rpb24K</text>
+      <register name="0" type="4">
+        <text>takeInitiatorPicture</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUoJ2dyb3Vwcy5fY3JlYXRlLXN0ZXAtdGhyZWUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChlbXB0eSgkZ3JvdXApKTsK</text>
+        <text>/**  */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGdyb3VwKTsK</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIGl0XygpCiAgICB7CiAgICAKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZ3JvdXBUb2tlbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUoJ2dyb3Vwcy5fY3JlYXRlLXN0ZXAtdGhyZWUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnRpY2lwYW50X2lkOiB0aGlzLnBhcnRpY2lwYW50LAo=</text>
+        <text encoding="base64">ICAgICAgICBkZChlbXB0eSgkZ3JvdXApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGdyb3VwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCBJbml0aWF0b3IgSW1hZ2UgSXMgTm90IFN0b3JlZCBXaGVuIEluaXRpYXRvciBJcyBOb3QgUGFydGljaXBhdGluZyBpbiBHcm91cAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFVzZXJJbWFnZUlzTm90U3RvcmVkV2hlbkluaXRpYXRvcklzTm90UGFydGljaXBhdGluZ0luR3JvdXAoKQogICAgewogICAgICAgICR0aGlzLT53aXRoRXhjZXB0aW9uSGFuZGxpbmcoKTsKCiAgICAgICAgJGdyb3VwID0gZmFjdG9yeShHcm91cDo6Y2xhc3MpLT5jcmVhdGUoKTsKCiAgICAgICAgJHRoaXMtPmpzb24oJ1BPU1QnLCByb3V0ZSgnaW1hZ2Uuc3RvcmUnLCBbJ3Rva2VuJyA9PiAkZ3JvdXAtPnRva2VuXSksIFsKICAgICAgICAgICAgJ2ltYWdlJyA9PiBVcGxvYWRlZEZpbGU6OmZha2UoKS0+aW1hZ2UoJ2F2YXRhci5qcGcnKQogICAgICAgIF0pLT5hc3NlcnRTdGF0dXMoNDAzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZ3JvdXBUb2tlbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>

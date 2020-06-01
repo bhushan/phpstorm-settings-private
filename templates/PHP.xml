@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="tmet" value="/** @test */&#10;public function it_$NAME$()&#10;{&#10;$END$&#10;}" description="Scaffolds test function/method" toReformat="false" toShortenFQNames="true">
+  <template name="tmet" value="public function test$NAME$()&#10;{&#10;$END$&#10;}" description="Scaffolds test function/method" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
