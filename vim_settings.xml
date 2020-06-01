@@ -105,31 +105,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/GroupForm.vue" timestamp="1591026620278">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="45" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/EmailShare.vue" timestamp="1591026797705">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="140" column="13" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/welcome.blade.php" timestamp="1591024163567">
-        <mark key="[" line="20" column="62" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="9" />
+      <file name="/a.dummy" timestamp="1591032520628">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Requests/Traits/RouteParameters.php" timestamp="1591023868505">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Listeners/InviteParticipantsToOrderGroupListener.php" timestamp="1591032425394">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/layouts/_nav.blade.php" timestamp="1591024117127">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="97" />
-        <mark key="." line="20" column="96" />
-        <mark key="^" line="23" column="87" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/InviteGroupParticipant.php" timestamp="1591031697051">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="31" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/InviteParticipantToOrderGroup.php" timestamp="1591033632278">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="37" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Listeners/InviteGroupParticipantListener.php" timestamp="1591031851838">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/database/migrations/2020_05_11_121615_create_group_participant_table.php" timestamp="1591033055457">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/manage/index.blade.php" timestamp="1591027134778">
         <mark key="[" line="76" column="72" />
@@ -137,44 +147,41 @@
         <mark key="." line="76" column="72" />
         <mark key="^" line="74" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/NotifiyParticipants.vue" timestamp="1591025755543">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Events/InviteParticipantsToOrderGroup.php" timestamp="1591031704184">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupParticipantController.php" timestamp="1591023720472">
-        <mark key="[" line="155" column="40" />
-        <mark key="]" line="155" column="49" />
-        <mark key="." line="155" column="48" />
-        <mark key="^" line="155" column="49" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1591033582966">
+        <mark key="[" line="160" column="72" />
+        <mark key="]" line="160" column="83" />
+        <mark key="." line="160" column="82" />
+        <mark key="^" line="160" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" timestamp="1591023662733">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="152" column="5" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ManageGroupController.php" timestamp="1591031019924">
+        <mark key="[" line="48" column="66" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1591023332195">
-        <mark key="[" line="134" column="7" />
-        <mark key="]" line="136" column="7" />
-        <mark key="." line="136" column="6" />
-        <mark key="^" line="136" column="7" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/mails/order-invitation.blade.php" timestamp="1591033715926">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="39" column="22" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/database/migrations/2020_05_11_120923_create_groups_table.php" timestamp="1591021877155">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="57" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Listeners/InviteParticipantToOrderGroupListener.php" timestamp="1591033648566">
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="27" column="84" />
+        <mark key="^" line="27" column="84" />
+        <mark key="." line="27" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/ManageGroupController.php" timestamp="1591026601333">
-        <mark key="[" line="44" column="41" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="18" />
-        <mark key="^" line="45" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1591026475075">
-        <mark key="[" line="43" column="126" />
-        <mark key="]" line="43" column="145" />
-        <mark key="." line="43" column="144" />
-        <mark key="^" line="43" column="145" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Providers/EventServiceProvider.php" timestamp="1591031944887">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/NotifyParticipants.vue" timestamp="1591027037238">
         <mark key="i" line="54" column="53" />
@@ -183,17 +190,13 @@
         <mark key="^" line="7" column="95" />
         <mark key="." line="7" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ManageGroupControllerTest.php" timestamp="1591022283676">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Mails/OrderInviteMail.php" timestamp="1591033684016">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/app.js" timestamp="1591025857750">
-        <mark key="[" line="15" column="64" />
-        <mark key="]" line="15" column="64" />
-        <mark key="." line="15" column="64" />
-        <mark key="^" line="15" column="78" />
-      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupParticipantService.php" timestamp="1591033338757" />
     </filemarks>
     <jumps>
       <jump line="62" column="0" filename="$USER_HOME$/Documents/Code/quickstart/application/models/Guestbook.php" />
@@ -273,43 +276,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHJhbmRvbS1wYXNzd29yZA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHJhbmRvbS1wYXNzd29yZA==</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd01vZGFsKCkgewogICAgICAgICAgICAgICAgZG9jdW1lbnQuYm9keS5jbGFzc05hbWUgPSAibW9kYWwtb3BlbiI7CiAgICAgICAgICAgICAgICBsZXQgbW9kYWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibGlua21vZGFsIik7CiAgICAgICAgICAgICAgICBtb2RhbC5zdHlsZS5iYWNrZ3JvdW5kQ29sb3IgPSAicmdiYSgwLDAsMCwwLjUpIjsKICAgICAgICAgICAgICAgIG1vZGFsLnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siOwogICAgICAgICAgICAgICAgbW9kYWwuY2xhc3NOYW1lID0gIm1vZGFsIGZhZGUgc2hvdyI7CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGhpZGVNb2RhbCgpIHsKICAgICAgICAgICAgICAgIGRvY3VtZW50LmJvZHkuY2xhc3NOYW1lID0gIiI7CiAgICAgICAgICAgICAgICBsZXQgbW9kYWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibGlua21vZGFsIik7CiAgICAgICAgICAgICAgICBtb2RhbC5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwogICAgICAgICAgICAgICAgbW9kYWwuY2xhc3NOYW1lID0gIm1vZGFsIGZhZGUiOwogICAgICAgICAgICAgICAgdGhpcy5iYWNrKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBVc2VyCiAgICAgKi8KICAgIHB1YmxpYyAkcGFydGljaXBhbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYmFjaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQobmV3IEludml0ZVBhcnRpY2lwYW50VG9PcmRlckdyb3VwKCRncm91cCwgJHBhcnRpY2lwYW50KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBSZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQgaGVpZ2h0PSI0MCIgYmdjb2xvcj0iI2ZmZiIgc3R5bGU9InBhZGRpbmc6MDsgbGluZS1oZWlnaHQ6IDA7Ij4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNkZnNkZgo=</text>
+        <text encoding="base64">ICAgIDx0cj4KICAgICAgICA8dGQgaGVpZ2h0PSI0MCIgYmdjb2xvcj0iI2ZmZiIgc3R5bGU9InBhZGRpbmc6MDsgbGluZS1oZWlnaHQ6IDA7Ij4mbmJzcDsKICAgICAgICA8L3RkPgogICAgPC90cj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij5TZW5kIHRvIHBhcnRpY2lwYW50czwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIDx0cj4KICAgICAgICA8dGQgY2xhc3M9ImNlbnRlciIgYWxpZ249ImxlZnQiIHZhbGlnbj0idG9wIiBiZ2NvbG9yPSIjZmZmIgogICAgICAgICAgICBzdHlsZT0icGFkZGluZzogMHB4IDQwcHg7Zm9udC1zaXplOjE0cHggOyBjb2xvcjojMTkyQjUwO2xpbmUtaGVpZ2h0OiAyMHB4O2ZvbnQtd2VpZ2h0OiAyMDA7Ij4KICAgICAgICAgICAge3sgX18oJ2ludml0YXRpb24tZW1haWwuZmFsbGJhY2tfbWVzc2FnZScsIFsndXJsJyA9PiByb3V0ZSgnZ3JvdXAucGFydGljaXBhbnQuc2hvd0ludml0ZScsIFsndG9rZW4nID0+ICRncm91cC0+dG9rZW5dKSBdKSB9fQogICAgICAgIDwvdGQ+CiAgICA8L3RyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIGFjdGlvbi1saW5rIGQtZmxleCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IF9fKCdpbnZpdGF0aW9uLWVtYWlsLmJ1dHRvbl9tZXNzYWdlJykgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgX18oJ2ludml0YXRpb24tZW1haWwubWVzc2FnZScsIFsnaW5pdGlhdG9yJyA9PiAkZ3JvdXAtPmluaXRpYXRvci0+bmFtZSwgJ2dyb3VwX25hbWUnID0+ICRncm91cC0+Z3JvdXBfbmFtZSwgJ2NsYXNzX25hbWUnID0+ICRncm91cC0+Y2xhc3NfbmFtZSA/ICcsICcgLiAkZ3JvdXAtPmNsYXNzX25hbWUgOiAnJ10pIH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgbXItYXV0byI+CiAgICAgICAgICAgICAgICBPcmRlciBmb3IgYWxsIHBhcnRpY2lwYW50cwogICAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIgYWN0aW9uLWxpbmsgZC1mbGV4Ij4K</text>
+        <text encoding="base64">ICAgICAqIEhhbmRsZSB0aGUgZXZlbnQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
