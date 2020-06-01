@@ -128,12 +128,6 @@
         <mark key="." line="78" column="32" />
         <mark key="^" line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/share.blade.php" timestamp="1590933036817">
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/participant/thank-you.blade.php" timestamp="1590999179305">
         <mark key="[" line="8" column="69" />
         <mark key="]" line="14" column="0" />
@@ -165,11 +159,22 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/layouts/_nav.blade.php" timestamp="1591014945614">
+        <mark key="[" line="20" column="96" />
+        <mark key="]" line="20" column="96" />
+        <mark key="." line="20" column="96" />
+        <mark key="^" line="23" column="87" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/mails/manage-link.blade.php" timestamp="1590996504646">
         <mark key="[" line="24" column="33" />
         <mark key="]" line="24" column="55" />
         <mark key="." line="24" column="54" />
         <mark key="^" line="24" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/bootstrap.js" timestamp="1591015142647">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/manage.blade.php" timestamp="1591002288185">
         <mark key="[" line="16" column="0" />
@@ -200,12 +205,6 @@
         <mark key="." line="155" column="48" />
         <mark key="^" line="155" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/tests/Feature/Controllers/ImageControllerTest.php" timestamp="1590995730472">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="49" column="8" />
-        <mark key="." line="49" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/Webcam.vue" timestamp="1590998490550">
         <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="36" />
@@ -217,6 +216,11 @@
         <mark key="]" line="40" column="29" />
         <mark key="." line="40" column="28" />
         <mark key="^" line="40" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/app.js" timestamp="1591015149071">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -297,40 +301,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>participants</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BhcnRpY2lwYW50cycgPT4gJHBhcnRpY2lwYW50cywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjbGljay5wcmV2ZW50PSIkcmVmcy5uYXZiYXJIZWFkZXIuY2xhc3NMaXN0LmFkZCgnc2hvdycpIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTUgaW1hZ2UtZ3JpZCI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0ie3sgYXNzZXQoJ2ltYWdlcy9pbWFnZS1ncmlkLnBuZycpIH19IiBjbGFzcz0iaW1nLWZsdWlkIi8+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9ib290c3RyYXAnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JvdXAgPSAkZ3JvdXBTZXJ2aWNlLT5maW5kKCRtYW5hZ2VHcm91cFJlcXVlc3QtPnZhbGlkYXRlZCgpKTsK</text>
+        <text encoding="base64">CndpbmRvdy5heGlvcyA9IHJlcXVpcmUoJ2F4aW9zJyk7Cgp3aW5kb3cuYXhpb3MuZGVmYXVsdHMuaGVhZGVycy5jb21tb25bJ1gtUmVxdWVzdGVkLVdpdGgnXSA9ICdYTUxIdHRwUmVxdWVzdCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gdHJ5IHsKLy8gICAgIHdpbmRvdy5Qb3BwZXIgPSByZXF1aXJlKCdwb3BwZXIuanMnKS5kZWZhdWx0OwovLyAgICAgd2luZG93LiQgPSB3aW5kb3cualF1ZXJ5ID0gcmVxdWlyZSgnanF1ZXJ5Jyk7Ci8vCi8vICAgICByZXF1aXJlKCdib290c3RyYXAnKTsKLy8gfSBjYXRjaCAoZSkgewovLyB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS10YXJnZXQ9IiNuYXZiYXJIZWFkZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtY29udHJvbHM9Im5hdmJhckhlYWRlciIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1leHBhbmRlZD0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtbGFiZWw9IlRvZ2dsZSBuYXZpZ2F0aW9uIg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJzdGVwMCBhY3RpdmUiIDpjbGFzcz0ie2N1cnJlbnQgOiBzdGVwID09IDF9Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPkNyZWF0ZSB5b3VyIEdyb3Vwc2llPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InN0ZXAwIiA6Y2xhc3M9IntjdXJyZW50IDogc3RlcCA9PSAyLCBhY3RpdmUgOiBzdGVwID49IDJ9Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPkdyb3Vwc2llIHNldHRpbmdzIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJzdGVwMCIgOmNsYXNzPSJ7Y3VycmVudCA6IHN0ZXAgPT0gMywgYWN0aXZlOiBzdGVwID49IDN9Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPkNoZWVlc2UhPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InN0ZXAwIiA6Y2xhc3M9IntjdXJyZW50IDogc3RlcCA9PSA0LCBhY3RpdmU6IHN0ZXAgPj0gNH0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+U2hhcmU8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdGFyZ2V0PSIjbmF2YmFySGVhZGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1jb250cm9scz0ibmF2YmFySGVhZGVyIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1sYWJlbD0iVG9nZ2xlIG5hdmlnYXRpb24iPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpbmNsdWRlKCdncm91cHMuX2NyZWF0ZS1zdGVwLW9uZScpCiAgICAgICAgICAgICAgICBAaW5jbHVkZSgnZ3JvdXBzLl9jcmVhdGUtc3RlcC10d28nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTUgaW1hZ2UtZ3JpZCI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0ie3sgYXNzZXQoJ2ltYWdlcy9pbWFnZS1ncmlkLnBuZycpIH19IiBjbGFzcz0iaW1nLWZsdWlkIi8+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZ3JvdXAgPSAkZ3JvdXBTZXJ2aWNlLT5maW5kKCRtYW5hZ2VHcm91cFJlcXVlc3QtPnZhbGlkYXRlZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
