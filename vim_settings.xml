@@ -123,9 +123,10 @@
         <mark key="]" line="14" column="40" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" timestamp="1591110971288">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="81" column="5" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" timestamp="1591112520549">
+        <mark key="]" line="419" column="8" />
+        <mark key="^" line="419" column="8" />
+        <mark key="." line="419" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupController.php" timestamp="1591105435112">
         <mark key="[" line="75" column="108" />
@@ -283,11 +284,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU2NoZWR1bGUgdGhlIGV2ZW50IHRvIHJ1biBldmVyeSBtaW51dGUuCiAgICAgKgogICAgICogQHJldHVybiAkdGhpcwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZXZlcnlNaW51dGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+c3BsaWNlSW50b1Bvc2l0aW9uKDEsICcqJyk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hourly</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>hourly</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
