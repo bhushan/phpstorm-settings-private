@@ -106,11 +106,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/sharecode/app/Contracts/Repository.php" timestamp="1591257395672">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/.env.example" timestamp="1591178973270">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/sharecode/tests/Unit/Models/GroupTest.php" timestamp="1591258264040">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/sharecode/ImageRequest.php" timestamp="1591189091589">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/sharecode/web.php" timestamp="1591188985125">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/sharecode/app/Contracts/Repository.php" timestamp="1591258195563">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/sharecode/GroupController.php" timestamp="1591188780328">
         <mark key="[" line="4" column="0" />
@@ -122,6 +144,12 @@
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1591174689599">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="47" column="115" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/PaymentController.php" timestamp="1591178527498">
         <mark key="[" line="23" column="27" />
@@ -135,6 +163,16 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/.env" timestamp="1591179428430">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/sharecode/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1591258274048">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Jobs/StripeWebhooks/HandleSucceededCharge.php" timestamp="1591178829834">
         <mark key="[" line="32" column="104" />
         <mark key="]" line="32" column="110" />
@@ -147,32 +185,23 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/.env.example" timestamp="1591178973270">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="25" />
+      <file name="$USER_HOME$/Documents/Code/sharecode/app/Http/Controllers/GroupController.php" timestamp="1591258222954">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/sharecode/ImageRequest.php" timestamp="1591189091589">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Code/sharecode/app/Http/Requests/GroupRequest.php" timestamp="1591258227184">
+        <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/sharecode/web.php" timestamp="1591188985125">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Code/sharecode/app/Repositories/GroupRepository.php" timestamp="1591258234953">
+        <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/routes/web.php" timestamp="1591174689599">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="47" column="115" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/.env" timestamp="1591179428430">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="25" />
+      <file name="$USER_HOME$/Documents/Code/sharecode/app/Services/GroupService.php" timestamp="1591258286643">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/sharecode/GroupTest.php" timestamp="1591189038656">
         <mark key="[" line="35" column="0" />
@@ -263,8 +292,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>itories;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>itories;</text>
@@ -273,7 +302,7 @@
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UVVFVUVfQ09OTkVDVElPTj1kYXRhYmFzZQo=</text>
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
