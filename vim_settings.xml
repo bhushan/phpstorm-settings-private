@@ -185,6 +185,11 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/Webcam.vue" timestamp="1591261237956">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/sharecode/app/Http/Controllers/GroupController.php" timestamp="1591258222954">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -293,7 +298,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAxMDgwLAogICAgICAgICAgICAgICAgaGVpZ2h0OiA3MjAsCg==</text>
       </register>
       <register name="-" type="4">
         <text>itories;</text>
@@ -305,31 +310,31 @@
         <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAxMDgwLAogICAgICAgICAgICAgICAgaGVpZ2h0OiA3MjAsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRvIHVwZGF0ZSBwYXJ0aWN1bGFyIG1vZGVsIGJ5IGNoZWNraW5nIHNwZWNpZmljIGtleXMuCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICR3aGVyZQogICAgICogQHBhcmFtIGFycmF5ICRhdHRyaWJ1dGVzCiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlQnkoYXJyYXkgJHdoZXJlLCBhcnJheSAkYXR0cmlidXRlcyk6IGludAogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kZWwtPndoZXJlKCR3aGVyZSktPnVwZGF0ZSgkYXR0cmlidXRlcyk7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOndpZHRoPSJ3aWR0aCIKICAgICAgICAgICAgICAgICAgICAgICAgOmhlaWdodD0iaGVpZ2h0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOndpZHRoPSJ3aWR0aCIKICAgICAgICAgICAgICAgICAgICAgICAgOmhlaWdodD0iaGVpZ2h0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxSdWxlc1xJc1ZhbGlkUGFydGljaXBhbnRPZkdyb3VwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXFRyYWl0c1xSb3V0ZVBhcmFtZXRlcnM7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFRvIHVwZGF0ZSBwYXJ0aWN1bGFyIG1vZGVsIGJ5IGNoZWNraW5nIHNwZWNpZmljIGtleXMuCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICR3aGVyZQogICAgICogQHBhcmFtIGFycmF5ICRhdHRyaWJ1dGVzCiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlQnkoYXJyYXkgJHdoZXJlLCBhcnJheSAkYXR0cmlidXRlcyk6IGludAogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kZWwtPndoZXJlKCR3aGVyZSktPnVwZGF0ZSgkYXR0cmlidXRlcyk7CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZSBSb3V0ZVBhcmFtZXRlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BhcnRpY2lwYW50X2lkJyA9PiBbCiAgICAgICAgICAgICAgICAncmVxdWlyZWQnLCAnZXhpc3RzOnVzZXJzLGlkJywgbmV3IElzVmFsaWRQYXJ0aWNpcGFudE9mR3JvdXAoJHRoaXMtPnRva2VuLCAndG9rZW4nKQogICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">dXNlIEFwcFxSdWxlc1xJc1ZhbGlkUGFydGljaXBhbnRPZkdyb3VwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rva2VuJyA9PiAncmVxdWlyZWR8ZXhpc3RzOmdyb3Vwcyx0b2tlbicsCg==</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXFRyYWl0c1xSb3V0ZVBhcmFtZXRlcnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBSb3V0ZVBhcmFtZXRlcnMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
