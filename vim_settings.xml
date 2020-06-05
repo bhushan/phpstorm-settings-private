@@ -179,11 +179,11 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/Webcam.vue" timestamp="1591340513215">
-        <mark key="[" line="87" column="20" />
-        <mark key="]" line="86" column="24" />
-        <mark key="." line="86" column="23" />
-        <mark key="^" line="86" column="24" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/js/components/Webcam.vue" timestamp="1591342703221">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="142" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Code/sharecode/app/Http/Controllers/GroupController.php" timestamp="1591258222954">
         <mark key="[" line="1" column="0" />
@@ -295,44 +295,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>isCameraOpen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjYW1lcmEnKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNhbWVyYS52aWRlb0hlaWdodCwgY2FtZXJhLnZpZGVvV2lkdGgpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NhbnZhcycpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2FudmFzLmhlaWdodCwgY2FudmFzLndpZHRoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>isCameraOpen</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLndpZHRoID0gdGhpcy4kcmVmcy5jYW1lcmEudmlkZW9XaWR0aDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbnZhcy5oZWlnaHQgPSBjYW1lcmEudmlkZW9IZWlnaHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjYW1lcmEnKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNhbWVyYS52aWRlb0hlaWdodCwgY2FtZXJhLnZpZGVvV2lkdGgpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NhbnZhcycpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2FudmFzLmhlaWdodCwgY2FudmFzLndpZHRoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY2FtZXJhJykpOwogICAgICAgICAgICAgICAgICAgIHRoaXMud2lkdGggPSB0aGlzLiRyZWZzLmNhbWVyYS52aWRlb1dpZHRoOwogICAgICAgICAgICAgICAgICAgIHRoaXMuaGVpZ2h0ID0gdGhpcy4kcmVmcy5jYW1lcmEudmlkZW9IZWlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAwLAogICAgICAgICAgICAgICAgaGVpZ2h0OiAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmhlaWdodCA9IDQwMDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB3YXRjaDogewogICAgICAgIC8vICAgICBpc1Bob3RvVGFrZW46IGZ1bmN0aW9uICh2YWwpIHsKICAgICAgICAvLyAgICAgICAgIGlmICghdmFsKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgdGhpcy4kbmV4dFRpY2soKCkgPT4gewogICAgICAgIC8vICAgICAgICAgICAgICAgICB0aGlzLndpZHRoID0gdGhpcy4kcmVmcy5jYW1lcmEudmlkZW9XaWR0aDsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgdGhpcy5oZWlnaHQgPSB0aGlzLiRyZWZzLmNhbWVyYS52aWRlb0hlaWdodDsKICAgICAgICAvLyAgICAgICAgICAgICB9KTsKICAgICAgICAvLyAgICAgICAgIH0KICAgICAgICAvLyAgICAgfQogICAgICAgIC8vIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2aWQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZm9vIik7CiAgICAgICAgICAgICAgICB2aWQudmlkZW9IZWlnaHQ7IC8vIHJldHVybnMgdGhlIGludHJpbnNpYyBoZWlnaHQgb2YgdGhlIHZpZGVvCiAgICAgICAgICAgICAgICB2aWQudmlkZW9XaWR0aDsgLy8gcmV0dXJucyB0aGUgaW50cmluc2ljIHdpZHRoIG9mIHRoZSB2aWRlbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGNvbnRleHQgPSB0aGlzLiRyZWZzLmNhbnZhcy5nZXRDb250ZXh0KCIyZCIpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>const context = this.$refs.canvas.getContext(&quot;2d&quot;);
+                let canvas = this.$refs.camera;
+                let camera = this.$refs.camera;
+                console.log(camera.videoHeight);
+                console.log(camera.videoWidth);
+                context.drawImage(camera, 0, 0, camera.videoWidth, camera.videoHeight);
+            },</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOndpZHRoPSJ3aWR0aCIKICAgICAgICAgICAgICAgICAgICAgICAgOmhlaWdodD0iaGVpZ2h0Igo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBpc1Bob3RvVGFrZW46IGZ1bmN0aW9uICh2YWx1ZSkgewoKICAgICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGFsZXJ0KCdtIGluJyk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgIDp3aWR0aD0id2lkdGgiCiAgICAgICAgICAgICAgICAgICAgICAgIDpoZWlnaHQ9ImhlaWdodCI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oZWlnaHQgPSB0aGlzLiRyZWZzLmNhbWVyYS52aWRlb0hlaWdodDsKICAgICAgICAgICAgdGhpcy53aWR0aCA9IHRoaXMuJHJlZnMuY2FtZXJhLnZpZGVvV2lkdGg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
