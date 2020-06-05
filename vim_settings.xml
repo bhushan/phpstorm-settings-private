@@ -165,11 +165,17 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/sharecode/tests/Feature/Controllers/GroupControllerTest.php" timestamp="1591258274048">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Documents/Code/groupsie/resources/views/groups/show-invite.blade.php" timestamp="1591361392472">
+        <mark key="[" line="62" column="44" />
+        <mark key="]" line="62" column="48" />
+        <mark key="." line="62" column="47" />
+        <mark key="^" line="62" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Http/Controllers/GroupParticipantController.php" timestamp="1591361756978">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="138" column="8" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Jobs/StripeWebhooks/HandleChargeableSource.php" timestamp="1591353464173">
         <mark key="[" line="41" column="59" />
@@ -197,6 +203,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1591361920343">
+        <mark key="[" line="216" column="53" />
+        <mark key="]" line="216" column="53" />
+        <mark key="." line="216" column="52" />
+        <mark key="^" line="216" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -283,43 +295,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>database</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>database</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwYXJ0aWNpcGFudF9uYW1lJyA9PiAkdmFsaWRhdGVkRGF0YVsnZmlyc3RfbmFtZSddIC4gJyAnIC4gJHZhbGlkYXRlZERhdGFbJ2xhc3RfbmFtZSddLAo=</text>
+      <register name="0" type="4">
+        <text>initiatorImagePath</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdHJlZXQnID0+ICR2YWxpZGF0ZWREYXRhWydzdHJlZXQnXSAuICcsICcgLiAkdmFsaWRhdGVkRGF0YVsnc3RyZWV0X251bWJlciddLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwaG9uZScgPT4gJHZhbGlkYXRlZERhdGFbJ3Bob25lJ10sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwYXJ0aWNpcGFudF9uYW1lJyA9PiAkdmFsaWRhdGVkRGF0YVsnZmlyc3RfbmFtZSddIC4gJyAnIC4gJHZhbGlkYXRlZERhdGFbJ2xhc3RfbmFtZSddLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHZhbGlkYXRlZERhdGFbJ2VtYWlsJ10sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnQmVhdXRpZnVsIEdyb3Vwc2llIGZvciBZb3UuJywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkaW5pdGlhdG9ySW1hZ2VQYXRoID0gR3JvdXBQYXJ0aWNpcGFudDo6d2hlcmUoWyd1c2VyX2lkJyA9PiAkZ3JvdXAtPmluaXRpYXRvci0+aWQsICdncm91cF9pZCcgPT4gJGdyb3VwLT5pZF0pLT5maXJzdCgpLT5wdWJsaWNfaW1hZ2VfcGF0aDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkaW5pdGlhdG9ySW1hZ2VQYXRoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImltYWdlLWNvbGxhZ2UiCiAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJiYWNrZ3JvdW5kOnVybCgne3sgYXNzZXQoJ2ltYWdlcy9jb2xsYWdlLmpwZycpIH19Jyk7YmFja2dyb3VuZC1zaXplOmNvdmVyOyI+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdHJlZXQnID0+ICR2YWxpZGF0ZWREYXRhWydzdHJlZXQnXSAuICcsICcgLiAkdmFsaWRhdGVkRGF0YVsnc3RyZWV0X251bWJlciddLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwaG9uZScgPT4gJHZhbGlkYXRlZERhdGFbJ3Bob25lJ10sCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dmFsaWRhdGVkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwYXJ0aWNpcGFudF9uYW1lJyA9PiAkdmFsaWRhdGVkRGF0YVsnZmlyc3RfbmFtZSddIC4gJyAnIC4gJHZhbGlkYXRlZERhdGFbJ2xhc3RfbmFtZSddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
