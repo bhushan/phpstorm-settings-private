@@ -192,12 +192,24 @@
         <mark key="." line="62" column="60" />
         <mark key="^" line="66" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/routes/web.php" timestamp="1591681274879" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/routes/web.php" timestamp="1591692598794">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupParticipantService.php" timestamp="1591378325311">
         <mark key="[" line="117" column="37" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
         <mark key="^" line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/resources/views/index.blade.php" timestamp="1591694931837">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="38" />
+        <mark key="^" line="52" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1591382396336">
         <mark key="[" line="220" column="11" />
@@ -285,48 +297,50 @@
       <jump line="0" column="22" filename="$USER_HOME$/Documents/Code/groupsie/resources/views/orders/index.blade.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Code/groupsie/database/migrations/2020_06_03_070326_create_bills_table.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Code/sharecode/web.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Code/fortel-network-challenge/resources/views/index.blade.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/Code/fortel-network-challenge/resources/views/index.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3M9Im14LTQiIA==</text>
+        <text>border</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3M9Im14LTQiIA==</text>
+        <text>border</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDIgY2xhc3M9InRpdGxlIG10LTMgIG1iLTUiPkplIGJlc3RlbGxpbmcgaXMgZ2VwbGFhdHN0PC9oMj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD5zb2RlPC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD5zb2RlPC90ZD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJtdC0xMCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgdi1pZj0ibG9hZGVyIiBzcmM9Ii9pbWFnZXMvbG9hZGVyLmdpZiIgYWx0PSJsb2FkZXItZ3JvdXBzaWUiIGhlaWdodD0iMzIiLz4K</text>
+        <text encoding="base64">CiAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgIEB5aWVsZCgnc3R5bGVzJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHYtaWY9ImxvYWRlciI+Cg==</text>
+        <text encoding="base64">CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSI+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dGl0bGUiIGNvbnRlbnQ9IkRlIEtsYXMgdmFuIDIwMjAiPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJ7eyBhc3NldCgnYXBwbGUnKSB9fSI+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2U6d2lkdGgiIGNvbnRlbnQ9IjEyMDAiPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlOmhlaWdodCIgY29udGVudD0iNjMwIj4KCiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6ZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkVlbiB1bmlla2Uga2xhc3NlbmZvdG8gdmlhIGRlIHdlYmNhbSwgbWV0IGFsIGplIGtsYXNnZW5vdGVuIj4KCgogICAgPGxpbmsgcmVsPSJhcHBsZS10b3VjaC1pY29uIiBzaXplcz0iMTgweDE4MCIgaHJlZj0ie3sgYXNzZXQoJ2FwcGxlLXRvdWNoLWljb24ucG5nJykgfX0iPgogICAgPGxpbmsgcmVsPSJpY29uIiB0eXBlPSJpbWFnZS9wbmciIHNpemVzPSIzMngzMiIgaHJlZj0ie3sgYXNzZXQoJ2Zhdmljb24tMzJ4MzIucG5nJykgfX0iPgogICAgPGxpbmsgcmVsPSJpY29uIiB0eXBlPSJpbWFnZS9wbmciIHNpemVzPSIxNngxNiIgaHJlZj0ie3sgYXNzZXQoJ2Zhdmljb24tMTZ4MTYucG5nJykgfX0iPgoKICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9UG9wcGluczppdGFsLHdnaHRAMCwyMDA7MSw3MDAmZGlzcGxheT1zd2FwIiByZWw9InN0eWxlc2hlZXQiPgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCIvPgogICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xIi8+CgogICAgPHRpdGxlPkxhcmF2ZWw8L3RpdGxlPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJ7eyBhc3NldCgnY3NzL2FwcC5jc3MnKSB9fSIvPgo8L2hlYWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
