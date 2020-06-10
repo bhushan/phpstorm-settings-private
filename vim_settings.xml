@@ -197,11 +197,12 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/resources/views/index.blade.php" timestamp="1591768799798">
-        <mark key="'" line="106" column="0" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/resources/views/index.blade.php" timestamp="1591771107732">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="56" column="179" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
+        <mark key="]" line="60" column="180" />
+        <mark key="^" line="60" column="180" />
+        <mark key="." line="60" column="179" />
       </file>
       <file name="$USER_HOME$/Documents/Code/groupsie/app/Services/GroupService.php" timestamp="1591382396336">
         <mark key="[" line="220" column="11" />
