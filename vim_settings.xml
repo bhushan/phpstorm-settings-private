@@ -109,106 +109,103 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/webpack.mix.js" timestamp="1591859496352">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="31" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/app.js" timestamp="1591879217358">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1591864054133">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/factories/MatchFactory.php" timestamp="1591878675142">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/tests/Feature/Controllers/LeagueControllerTest.php" timestamp="1591806716581">
-        <mark key="[" line="18" column="72" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/app/Models/Match.php" timestamp="1591807090643">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/app.js" timestamp="1591858977971">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/API/LeagueTableAPITest.php" timestamp="1591863923532">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/LeagueTableAPITest.php" timestamp="1591863791796">
-        <mark key="[" line="19" column="64" />
-        <mark key="]" line="19" column="64" />
-        <mark key="." line="19" column="64" />
-        <mark key="^" line="19" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/routes/web.php" timestamp="1591864365851">
-        <mark key="[" line="8" column="87" />
-        <mark key="]" line="8" column="93" />
-        <mark key="." line="8" column="92" />
-        <mark key="^" line="8" column="93" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tailwind.config.js" timestamp="1591862190314">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1591864426419">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="52" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="19" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591863011851">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/HomeControllerTest.php" timestamp="1591864397468">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="19" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/.env" timestamp="1591858671677">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="42" />
-        <mark key="^" line="4" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/bootstrap.js" timestamp="1591858973773">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/views/index.blade.php" timestamp="1591861897982">
-        <mark key="'" line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/HomeController.php" timestamp="1591864333453">
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Models/User.php" timestamp="1591878535492">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1591807027634">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="45" column="21" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/routes/web.php" timestamp="1591880973745">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+        <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/TestCase.php" timestamp="1591863803703">
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/components/LeagueTable.vue" timestamp="1591880595337">
+        <mark key="[" line="57" column="51" />
+        <mark key="]" line="57" column="73" />
+        <mark key="." line="57" column="72" />
+        <mark key="^" line="57" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Models/Team.php" timestamp="1591878530517">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/LeagueController.php" timestamp="1591864274477">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1591881428304">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="64" />
+        <mark key="^" line="18" column="64" />
+        <mark key="." line="18" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/migrations/2020_06_09_104418_create_teams_table.php" timestamp="1591878487868">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/config/auth.php" timestamp="1591877996481">
+        <mark key="[" line="70" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/HomeControllerTest.php" timestamp="1591880921650">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="20" column="59" />
+        <mark key="^" line="20" column="59" />
+        <mark key="." line="20" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/views/index.blade.php" timestamp="1591880171617">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/package.json" timestamp="1591879039344">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/HomeController.php" timestamp="1591881180961">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Models/Match.php" timestamp="1591878524560">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Models/Week.php" timestamp="1591878539900">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/LeagueController.php" timestamp="1591881186993">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/migrations/2020_06_10_060115_create_matches_table.php" timestamp="1591878647748">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="21" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -300,44 +297,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KCcvJyktPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCcvJyktPg==</text>
+        <text>testVerifiesGuestCanSendRequestToLeagueTableApiRoute</text>
       </register>
       <register name="/" type="4">
         <text>Liv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRGlzcGxheSBhIGxpc3Rpbmcgb2YgdGhlIHJlc291cmNlLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaW5kZXgoKTogdm9pZAogICAgewogICAgICAgIGRkKHJlcXVlc3QoKS0+aW5wdXQoJ3dlZWsnKSk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>testVerifiesGuestCanSendRequestToLeagueTableApiRoute</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPmlucHV0KCd3ZWVrJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAqIEEgYmFzaWMgZmVhdHVyZSB0ZXN0IGV4YW1wbGUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB2aWV3KCdpbmRleCcpOwp9KTsK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0SnNvbihyb3V0ZSgnYXBpLmxlYWd1ZS10YWJsZScsIFsnd2VlaycgPT4gMV0pKTsK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB2aWV3KCdpbmRleCcpOwp9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGVuZGZvcmVhY2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU2hvdyB0aGUgZm9ybSBmb3IgY3JlYXRpbmcgYSBuZXcgcmVzb3VyY2UuCiAgICAgKgogICAgICogQHJldHVybiBcSWxsdW1pbmF0ZVxIdHRwXFJlc3BvbnNlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGUoKQogICAgewogICAgICAgIC8vCiAgICB9CgogICAgLyoqCiAgICAgKiBTdG9yZSBhIG5ld2x5IGNyZWF0ZWQgcmVzb3VyY2UgaW4gc3RvcmFnZS4KICAgICAqCiAgICAgKiBAcGFyYW0gXElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHN0b3JlKFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgLy8KICAgIH0KCiAgICAvKioKICAgICAqIERpc3BsYXkgdGhlIHNwZWNpZmllZCByZXNvdXJjZS4KICAgICAqCiAgICAgKiBAcGFyYW0gaW50ICRpZAogICAgICogQHJldHVybiBcSWxsdW1pbmF0ZVxIdHRwXFJlc3BvbnNlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzaG93KCRpZCkKICAgIHsKICAgICAgICAvLwogICAgfQoKICAgIC8qKgogICAgICogU2hvdyB0aGUgZm9ybSBmb3IgZWRpdGluZyB0aGUgc3BlY2lmaWVkIHJlc291cmNlLgogICAgICoKICAgICAqIEBwYXJhbSBpbnQgJGlkCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGVkaXQoJGlkKQogICAgewogICAgICAgIC8vCiAgICB9CgogICAgLyoqCiAgICAgKiBVcGRhdGUgdGhlIHNwZWNpZmllZCByZXNvdXJjZSBpbiBzdG9yYWdlLgogICAgICoKICAgICAqIEBwYXJhbSBcSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3QgJHJlcXVlc3QKICAgICAqIEBwYXJhbSBpbnQgJGlkCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHVwZGF0ZShSZXF1ZXN0ICRyZXF1ZXN0LCAkaWQpCiAgICB7CiAgICAgICAgLy8KICAgIH0KCiAgICAvKioKICAgICAqIFJlbW92ZSB0aGUgc3BlY2lmaWVkIHJlc291cmNlIGZyb20gc3RvcmFnZS4KICAgICAqCiAgICAgKiBAcGFyYW0gaW50ICRpZAogICAgICogQHJldHVybiBcSWxsdW1pbmF0ZVxIdHRwXFJlc3BvbnNlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBkZXN0cm95KCRpZCkKICAgIHsKICAgICAgICAvLwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGZvcmVhY2ggKHJhbmdlKDEsMikgYXMgJGl0ZW0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2xlYWd1ZS10YWJsZScsIFtMZWFndWVDb250cm9sbGVyOjpjbGFzcywgJ2luZGV4J10pLT5uYW1lKCdhcGkubGVhZ3VlLXRhYmxlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
