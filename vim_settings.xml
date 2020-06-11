@@ -132,6 +132,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/views/index.blade.php" timestamp="1591861897982">
+        <mark key="'" line="112" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1591799873342">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,11 +143,6 @@
         <mark key="]" line="19" column="8" />
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/tests/Unit/Migrations/WeekTest.php" timestamp="1591799812920">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/app/Models/Match.php" timestamp="1591807090643">
         <mark key="[" line="9" column="1" />
@@ -180,16 +178,16 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tailwind.config.js" timestamp="1591862190314">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/database/seeds/TeamSeeder.php" timestamp="1591799905698">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/database/seeds/MatchSeeder.php" timestamp="1591799865043">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge/tests/Unit/Migrations/MatchTest.php" timestamp="1591804665512">
         <mark key="[" line="2" column="0" />
@@ -213,7 +211,6 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/sass/app.css" timestamp="1591859095207" />
     </filemarks>
     <jumps>
       <jump line="62" column="0" filename="$USER_HOME$/Documents/Code/quickstart/application/models/Guestbook.php" />
@@ -299,15 +296,16 @@
       <jump line="6" column="131" filename="$USER_HOME$/Documents/Code/fortel-network-challenge/README.md" />
       <jump line="18" column="7" filename="$USER_HOME$/Documents/Code/fortel-network-challenge/database/seeds/TeamsTableSeeder.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/bootstrap.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/views/index.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>main</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnLi9zcmMvKiovKi52dWUnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>Liv</text>
@@ -316,31 +314,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIHRhYmxlIGFzc29jaWF0ZWQgd2l0aCB0aGUgbW9kZWwuCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHJvdGVjdGVkICR0YWJsZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogfCBNaXggQXNzZXQgTWFuYWdlbWVudAogfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiB8CiB8IE1peCBwcm92aWRlcyBhIGNsZWFuLCBmbHVlbnQgQVBJIGZvciBkZWZpbmluZyBzb21lIFdlYnBhY2sgYnVpbGQgc3RlcHMKIHwgZm9yIHlvdXIgTGFyYXZlbCBhcHBsaWNhdGlvbi4gQnkgZGVmYXVsdCwgd2UgYXJlIGNvbXBpbGluZyB0aGUgU2FzcwogfCBmaWxlIGZvciB0aGUgYXBwbGljYXRpb24gYXMgd2VsbCBhcyBidW5kbGluZyB1cCBhbGwgdGhlIEpTIGZpbGVzLgogfAogKi8KCg==</text>
+        <text encoding="base64">ICAgICAgICAnLi9zcmMvKiovKi52dWUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5zYXNzKCdyZXNvdXJjZXMvc2Fzcy9hcHAuc2NzcycsICdwdWJsaWMvY3NzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnLi9zcmMvKiovKi5qc3gnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoKIHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogfCBNaXggQXNzZXQgTWFuYWdlbWVudAogfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiB8CiB8IE1peCBwcm92aWRlcyBhIGNsZWFuLCBmbHVlbnQgQVBJIGZvciBkZWZpbmluZyBzb21lIFdlYnBhY2sgYnVpbGQgc3RlcHMKIHwgZm9yIHlvdXIgTGFyYXZlbCBhcHBsaWNhdGlvbi4gQnkgZGVmYXVsdCwgd2UgYXJlIGNvbXBpbGluZyB0aGUgU2FzcwogfCBmaWxlIGZvciB0aGUgYXBwbGljYXRpb24gYXMgd2VsbCBhcyBidW5kbGluZyB1cCBhbGwgdGhlIEpTIGZpbGVzLgogfAogKi8KCg==</text>
+        <text encoding="base64">ICAgICAgICAnLi9zcmMvKiovKi52dWUnLAogICAgICAgICcuL3NyYy8qKi8qLmpzeCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICBwdXJnZTogW10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9ib290c3RyYXAnKTsK</text>
+        <text encoding="base64">IHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogfCBNaXggQXNzZXQgTWFuYWdlbWVudAogfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiB8CiB8IE1peCBwcm92aWRlcyBhIGNsZWFuLCBmbHVlbnQgQVBJIGZvciBkZWZpbmluZyBzb21lIFdlYnBhY2sgYnVpbGQgc3RlcHMKIHwgZm9yIHlvdXIgTGFyYXZlbCBhcHBsaWNhdGlvbi4gQnkgZGVmYXVsdCwgd2UgYXJlIGNvbXBpbGluZyB0aGUgU2FzcwogfCBmaWxlIGZvciB0aGUgYXBwbGljYXRpb24gYXMgd2VsbCBhcyBidW5kbGluZyB1cCBhbGwgdGhlIEpTIGZpbGVzLgogfAogKi8KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2luZG93LmF4aW9zID0gcmVxdWlyZSgnYXhpb3MnKTsKCndpbmRvdy5heGlvcy5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vblsnWC1SZXF1ZXN0ZWQtV2l0aCddID0gJ1hNTEh0dHBSZXF1ZXN0JzsKCg==</text>
+        <text encoding="base64">ICAgIC5zYXNzKCdyZXNvdXJjZXMvc2Fzcy9hcHAuc2NzcycsICdwdWJsaWMvY3NzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoKIHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogfCBNaXggQXNzZXQgTWFuYWdlbWVudAogfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiB8CiB8IE1peCBwcm92aWRlcyBhIGNsZWFuLCBmbHVlbnQgQVBJIGZvciBkZWZpbmluZyBzb21lIFdlYnBhY2sgYnVpbGQgc3RlcHMKIHwgZm9yIHlvdXIgTGFyYXZlbCBhcHBsaWNhdGlvbi4gQnkgZGVmYXVsdCwgd2UgYXJlIGNvbXBpbGluZyB0aGUgU2FzcwogfCBmaWxlIGZvciB0aGUgYXBwbGljYXRpb24gYXMgd2VsbCBhcyBidW5kbGluZyB1cCBhbGwgdGhlIEpTIGZpbGVzLgogfAogKi8KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2luZG93Ll8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9ib290c3RyYXAnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
