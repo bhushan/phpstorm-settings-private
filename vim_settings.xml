@@ -146,10 +146,11 @@
         <mark key="." line="260" column="19" />
         <mark key="^" line="260" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/MatchesTableSeeder.php" timestamp="1591956200917">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/MatchesTableSeeder.php" timestamp="1591975498092">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/WeekService.php" timestamp="1591959518845">
         <mark key="[" line="25" column="7" />
@@ -204,7 +205,7 @@
         <mark key="." line="25" column="68" />
         <mark key="^" line="25" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/LeagueController.php" timestamp="1591959128565">
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/LeagueController.php" timestamp="1591975209345">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -317,7 +318,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRlYW06OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ0xpdmVycG9vbCddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdob21lX3RlYW1fc2NvcmUnPT4gcmFuZCgxLDkpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>Liverpool</text>
@@ -326,7 +327,7 @@
         <text>Liv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRlYW06OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ0xpdmVycG9vbCddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdob21lX3RlYW1fc2NvcmUnPT4gcmFuZCgxLDkpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRlYW06OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ0xpdmVycG9vbCddKTsK</text>
