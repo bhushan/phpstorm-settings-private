@@ -185,10 +185,10 @@
         <mark key="^" line="118" column="16" />
         <mark key="." line="118" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Database/Seeds/TestTeamsTableSeeder.php" timestamp="1591953973614">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Database/Seeds/TestTeamsTableSeeder.php" timestamp="1591963227641">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="21" column="62" />
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1591960432155">
@@ -316,8 +316,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Liverpool</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRlYW06OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ0xpdmVycG9vbCddKTsK</text>
       </register>
       <register name="-" type="4">
         <text>Liverpool</text>
@@ -329,31 +329,31 @@
         <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRlYW06OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ0xpdmVycG9vbCddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVhbSA9IFRlYW06OmZpcnN0KCk7CiAgICAgICAgJG1hdGNoZXMgPSBNYXRjaDo6YWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRlYW06OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ0xpdmVycG9vbCddKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVhbSA9IFRlYW06OmZpcnN0KCk7CiAgICAgICAgJG1hdGNoZXMgPSBNYXRjaDo6YWxsKCk7Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0Y2hlcyA9IE1hdGNoOjphbGwoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVhbSA9IFRlYW06OmZpcnN0KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGVhbSA9IFRlYW06OmZpcnN0KCk7CiAgICAgICAgJG1hdGNoZXMgPSBNYXRjaDo6YWxsKCk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGVhbSA9IFRlYW06OmZpcnN0KCk7CiAgICAgICAgJG1hdGNoZXMgPSBNYXRjaDo6YWxsKCk7Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkbWF0Y2hlcyA9IE1hdGNoOjphbGwoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGVhbSA9IFRlYW06OmZpcnN0KCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGVhbSA9IFRlYW06OmZpcnN0KCk7CiAgICAgICAgJG1hdGNoZXMgPSBNYXRjaDo6YWxsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
+        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhdGlzdGljc1NlcnZpY2UgPSBuZXcgU3RhdGlzdGljc1NlcnZpY2UobmV3IE1hdGNoUmVwb3NpdG9yeShuZXcgTWF0Y2goKSksIG5ldyBUZWFtUmVwb3NpdG9yeShuZXcgVGVhbSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdGlzdGljc1NlcnZpY2UgPSBuZXcgU3RhdGlzdGljc1NlcnZpY2UobmV3IE1hdGNoUmVwb3NpdG9yeShuZXcgTWF0Y2goKSksIG5ldyBUZWFtUmVwb3NpdG9yeShuZXcgVGVhbSgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
