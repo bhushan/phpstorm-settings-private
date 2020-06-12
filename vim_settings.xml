@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1591944050248">
         <mark key="'" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1591950700155">
-        <mark key="[" line="245" column="50" />
-        <mark key="]" line="245" column="54" />
-        <mark key="." line="245" column="53" />
-        <mark key="^" line="245" column="54" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1591952941215">
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="32" />
+        <mark key="^" line="111" column="32" />
+        <mark key="." line="111" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/routes/web.php" timestamp="1591880973745">
         <mark key="[" line="5" column="57" />
@@ -309,40 +309,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>win</text>
+        <text encoding="base64">JHRlYW0tPmlkID09ICRtYXRjaC0+aG9tZV90ZWFt</text>
       </register>
       <register name="-" type="4">
-        <text>win</text>
+        <text encoding="base64">JHRlYW0tPmlkID09ICRtYXRjaC0+aG9tZV90ZWFt</text>
       </register>
       <register name="/" type="4">
         <text>Liv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkd2luUG9pbnRzID0gY29uZmlnKCdzaW11bGF0aW9uLnBvaW50cy53aW4nKSAqICR3aW5zOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbG9zcyA9IDA7CgogICAgICAgIGZvcmVhY2ggKCRtYXRjaGVzIGFzICRtYXRjaCkgewogICAgICAgICAgICBpZiAoJHRoaXMtPmlzTm90UGxheWluZ1RlYW0oJHRlYW0sICRtYXRjaCkpIGNvbnRpbnVlOwoKICAgICAgICAgICAgaWYgKCR0aGlzLT5hc0hvbWVUZWFtTG9zcygkdGVhbSwgJG1hdGNoKSkgJGxvc3MrKzsKCiAgICAgICAgICAgIGlmICgkdGhpcy0+YXNBd2F5VGVhbUxvc3MoJHRlYW0sICRtYXRjaCkpICRsb3NzKys7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGxvc3M7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9pbnRzID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aGlzLT5hc0hvbWVUZWFtTG9zcygkdGVhbSwgJG1hdGNoKSkgJGdkKys7CgogICAgICAgICAgICBpZiAoJHRoaXMtPmFzQXdheVRlYW1Mb3NzKCR0ZWFtLCAkbWF0Y2gpKSAkZ2QrKzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aGlzLT5hc0hvbWVUZWFtTG9zcygkdGVhbSwgJG1hdGNoKSkgJGdkKys7CgogICAgICAgICAgICBpZiAoJHRoaXMtPmFzQXdheVRlYW1Mb3NzKCR0ZWFtLCAkbWF0Y2gpKSAkZ2QrKzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAkcG9pbnRzID0gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgUG9pbnRzIGF3YXJkZWQgd2hlbiBwYXJ0aWN1bGFyIHRlYW0gd2lucyBvciBsb29zZXMgb3IgZHJhd3MgdGhlIG1hdGNoLgo=</text>
+        <text encoding="base64">ICAgIHwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCg==</text>
+        <text encoding="base64">ICAgIHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCg==</text>
+        <text encoding="base64">Ly8gICAgUG9pbnRzIGF3YXJkZWQgd2hlbiBwYXJ0aWN1bGFyIHRlYW0gd2lucyBvciBsb29zZXMgb3IgZHJhd3MgdGhlIG1hdGNoLgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCg==</text>
