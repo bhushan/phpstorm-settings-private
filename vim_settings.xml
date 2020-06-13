@@ -119,6 +119,12 @@
       <file name="/Dummy.txt" timestamp="1591962564978">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/.env" timestamp="1592030271010">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/views/index.blade.php" timestamp="1591959614842">
         <mark key="[" line="20" column="17" />
         <mark key="]" line="20" column="44" />
@@ -134,7 +140,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1591988679082">
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592029522371">
         <mark key="'" line="275" column="0" />
         <mark key="[" line="78" column="43" />
         <mark key="]" line="79" column="46" />
@@ -182,11 +188,11 @@
         <mark key="." line="21" column="62" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1591976102100">
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1592030511470">
         <mark key="'" line="2" column="23" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="53" column="5" />
-        <mark key="." line="51" column="7" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
         <mark key="^" line="51" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Repositories/Repository.php" timestamp="1591980506847">
@@ -317,10 +323,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Liverpool</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>Liverpool</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>Liver</text>
