@@ -131,11 +131,11 @@
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/views/index.blade.php" timestamp="1591959614842">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="44" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/views/index.blade.php" timestamp="1592061761294">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="38" />
         <mark key="^" line="20" column="44" />
-        <mark key="." line="20" column="43" />
+        <mark key="." line="19" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/HomeController.php" timestamp="1591959285676">
         <mark key="[" line="17" column="37" />
@@ -175,11 +175,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/components/LeagueTable.vue" timestamp="1592032311036">
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="38" />
-        <mark key="^" line="65" column="81" />
-        <mark key="." line="65" column="38" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/components/LeagueTable.vue" timestamp="1592062065663">
+        <mark key="'" line="29" column="16" />
+        <mark key="[" line="100" column="35" />
+        <mark key="]" line="100" column="39" />
+        <mark key="." line="100" column="38" />
+        <mark key="^" line="100" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Database/Seeds/TestTeamsTableSeeder.php" timestamp="1591963227641">
         <mark key="[" line="22" column="8" />
@@ -200,11 +201,10 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="25" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/LeagueController.php" timestamp="1592031745826">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="44" />
-        <mark key="^" line="27" column="45" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/LeagueController.php" timestamp="1592059445892">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/TeamsTableSeeder.php" timestamp="1591988323121">
         <mark key="'" line="20" column="25" />
@@ -319,48 +319,49 @@
       <jump line="275" column="0" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" />
       <jump line="20" column="25" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/TeamsTableSeeder.php" />
       <jump line="325" column="4" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" />
+      <jump line="29" column="16" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/components/LeagueTable.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1heCA9IGNvbmZpZygnc2ltdWxhdGlvbi5nb2Fscy5tYXgnKTsKICAgICAgICAgICAgJG1pbiA9IGNvbmZpZygnc2ltdWxhdGlvbi5nb2Fscy5taW4nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>lue</text>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>lue</text>
       </register>
       <register name="/" type="4">
         <text>Liver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1pbiA9IGNvbmZpZygnc2ltdWxhdGlvbi5nb2Fscy5taW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ibnVtYmVyIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1heCA9IGNvbmZpZygnc2ltdWxhdGlvbi5nb2Fscy5tYXgnKTsKICAgICAgICAgICAgJG1pbiA9IGNvbmZpZygnc2ltdWxhdGlvbi5nb2Fscy5taW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcm06IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1heCA9IGNvbmZpZygnc2ltdWxhdGlvbi5nb2Fscy5tYXgnKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZmlyc3RNYXRjaDogewogICAgICAgICAgICAgICAgICAgICAgICBob21lVGVhbVNjb3JlOiAwLAogICAgICAgICAgICAgICAgICAgICAgICBhd2F5VGVhbVNjb3JlOiAwCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoW10sICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhdGlzdGljc1NlcnZpY2UtPmdldFdlZWtseU1hdGNoZXNTdGF0aXN0aWNzKCR3ZWVrSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkd2Vla2x5TWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0iYm9yZGVyLXIgYm9yZGVyLXQgcC0yIHctMS8zIHRleHQtcmlnaHQiPi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNFZGl0aW5nID0gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdob21lX3RlYW1fc2NvcmUnID0+ICRtYXRjaC0+aG9tZV90ZWFtX3Njb3JlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRWRpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
