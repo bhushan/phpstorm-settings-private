@@ -220,12 +220,12 @@
         <mark key="]" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/TeamsTableSeeder.php" timestamp="1591988323121">
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/TeamsTableSeeder.php" timestamp="1592221592620">
         <mark key="'" line="20" column="25" />
         <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="66" />
-        <mark key="." line="20" column="65" />
-        <mark key="^" line="20" column="66" />
+        <mark key="]" line="20" column="60" />
+        <mark key="." line="20" column="59" />
+        <mark key="^" line="20" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -333,17 +333,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRWRpdGluZzogZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>Liverpool</text>
       </register>
       <register name="-" type="4">
-        <text>weekCount</text>
+        <text>Liverpool</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy51cGRhdGVEb20ocmVzcC5kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRlYW06OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ0xpdmVycG9vbCddKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRWRpdGluZzogZmFsc2UK</text>
