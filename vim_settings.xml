@@ -110,13 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592032943686">
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592078570743">
+      <file name="/Dummy.txt" timestamp="1592229531594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Requests/MatchRequest.php" timestamp="1592224616939">
@@ -130,6 +124,12 @@
         <mark key="]" line="7" column="1" />
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592230332798">
+        <mark key="[" line="24" column="72" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="27" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/config/simulation.php" timestamp="1592224126082">
         <mark key="[" line="43" column="22" />
@@ -159,12 +159,12 @@
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/HomeController.php" timestamp="1592220012121">
         <mark key="^" line="20" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592225729962">
-        <mark key="'" line="384" column="4" />
-        <mark key="[" line="355" column="20" />
-        <mark key="]" line="354" column="5" />
-        <mark key="^" line="354" column="5" />
-        <mark key="." line="354" column="4" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592230309598">
+        <mark key="'" line="400" column="4" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="56" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/lang/en.json" timestamp="1592227170148">
         <mark key="[" line="16" column="26" />
@@ -329,16 +329,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJwb2ludHMiOiAiUFRTIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlY29yZHMgPSAkdGhpcy0+Z2V0UmVjb3Jkc0ZvcldlZWsoJGluZGV4KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmw6IGR1dGNoTGFuZy5ubAo=</text>
