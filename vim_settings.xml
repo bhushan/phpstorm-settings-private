@@ -125,17 +125,11 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/DatabaseSeeder.php" timestamp="1592075854384">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592239913337">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="8" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592249829567">
+        <mark key="[" line="51" column="69" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/config/simulation.php" timestamp="1592224126082">
         <mark key="[" line="43" column="22" />
@@ -148,6 +142,12 @@
         <mark key="]" line="20" column="17" />
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Repositories/MatchRepository.php" timestamp="1592244860976">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/MatchesControllerTest.php" timestamp="1592219914256">
         <mark key="'" line="42" column="0" />
@@ -165,12 +165,12 @@
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/HomeController.php" timestamp="1592220012121">
         <mark key="^" line="20" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592241206464">
-        <mark key="'" line="269" column="0" />
-        <mark key="[" line="64" column="34" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
-        <mark key="^" line="56" column="77" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592250136559">
+        <mark key="'" line="273" column="0" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="27" />
+        <mark key="^" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/lang/en.json" timestamp="1592227170148">
         <mark key="[" line="16" column="26" />
@@ -189,18 +189,18 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/components/LeagueTable.vue" timestamp="1592227207086">
-        <mark key="[" line="10" column="72" />
-        <mark key="]" line="10" column="73" />
-        <mark key="." line="10" column="72" />
-        <mark key="^" line="10" column="73" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/components/LeagueTable.vue" timestamp="1592248500655">
+        <mark key="[" line="114" column="42" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
+        <mark key="^" line="125" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1592239586669">
         <mark key="'" line="2" column="23" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="59" column="10" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="58" column="10" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/MatchesController.php" timestamp="1592224421070">
         <mark key="[" line="29" column="50" />
@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="4" filename="$USER_HOME$/Documents/Code/ecommerce/application/views/scripts/index/index.phtml" />
       <jump line="9" column="22" filename="$USER_HOME$/Documents/Code/ecommerce/application/views/scripts/index/index.phtml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/views/scripts/index/index.phtml" />
       <jump line="5" column="13" filename="$USER_HOME$/Documents/Code/ecommerce/application/layouts/scripts/layout.phtml" />
@@ -329,15 +328,16 @@
       <jump line="384" column="4" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" />
       <jump line="379" column="4" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" />
       <jump line="263" column="0" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" />
+      <jump line="52" column="7" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaHVmZmxlKCRtYXRjaGVzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGluZGV4ID09IDYgPyBbXSA6IA==</text>
       </register>
       <register name="-" type="4">
-        <text>predictions</text>
+        <text encoding="base64">JGluZGV4ID09IDYgPyBbXSA6IA==</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -346,31 +346,31 @@
         <text encoding="base64">ICAgICAgICBpdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaHVmZmxlKCRtYXRjaGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaHVmZmxlKCRtYXRjaGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICA2Clt0ZWFtQSA9PiAyICwgdGVhbUIgPT4gMSBdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3JkcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaHVmZmxlKCRtYXRjaGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmF3UHJlZGljdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0Y2hlcyA9IGFycmF5X3ZhbHVlcygkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdG90YWxOdW1iZXJPZk1hdGNoZXMgPSAkdGhpcy0+Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkcmVjb3Jkcy0+Zmlyc3QoKVsncGxheWVkJ10gPT0gMCB8fCAkcmVjb3Jkcy0+Zmlyc3QoKVsncGxheWVkJ10gPT0gNikgewovLyAgICAgICAgICAgIHJldHVybiBbXTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
