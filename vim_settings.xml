@@ -110,13 +110,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592233882309">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="53" column="121" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592239579485">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="58" column="10" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592229531594">
+      <file name="/Dummy.txt" timestamp="1592238281368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Requests/MatchRequest.php" timestamp="1592224616939">
@@ -131,11 +131,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592231695990">
-        <mark key="[" line="24" column="72" />
-        <mark key="]" line="27" column="8" />
-        <mark key="^" line="27" column="8" />
-        <mark key="." line="27" column="7" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592239913337">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/config/simulation.php" timestamp="1592224126082">
         <mark key="[" line="43" column="22" />
@@ -165,12 +165,12 @@
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/HomeController.php" timestamp="1592220012121">
         <mark key="^" line="20" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592234964557">
-        <mark key="'" line="262" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="232" column="7" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592239625567">
+        <mark key="'" line="269" column="0" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="77" />
+        <mark key="." line="56" column="76" />
+        <mark key="^" line="56" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/lang/en.json" timestamp="1592227170148">
         <mark key="[" line="16" column="26" />
@@ -190,12 +190,12 @@
         <mark key="." line="10" column="72" />
         <mark key="^" line="10" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1592219835589">
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1592239586669">
         <mark key="'" line="2" column="23" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="40" column="8" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="59" column="10" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/API/MatchesController.php" timestamp="1592224421070">
         <mark key="[" line="29" column="50" />
@@ -329,43 +329,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdG90YWxOdW1iZXJPZk1hdGNoZXMgPSAkdGhpcy0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmdldEdvYWxEaWZmZXJlbmNlKCR0ZWFtLCAkbWF0Y2hlcyk=</text>
+        <text encoding="base64">JHRoaXMtPnByZWRpY3Rpb25TZXJ2aWNlLT5nZXRQcmVkaWN0aW9ucygkcmVjb3Jkcyk=</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRvdGFsUGxheWVkID0gJG1hdGNoZXNSZXN1bHRzWydwbGF5ZWQnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhdGlzdGljc1NlcnZpY2UgPSBuZXcgU3RhdGlzdGljc1NlcnZpY2UoCiAgICAgICAgICAgIG5ldyBNYXRjaFJlcG9zaXRvcnkobmV3IE1hdGNoKCkpLAogICAgICAgICAgICBuZXcgVGVhbVJlcG9zaXRvcnkobmV3IFRlYW0oKSksCiAgICAgICAgICAgIG5ldyBQcmVkaWN0aW9uU2VydmljZSgpCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdG90YWxOdW1iZXJPZk1hdGNoZXMgPSAkdGhpcy0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2dldCB0b3AgdGVhbSBjdXJyZW50IHBvaW50IGFuZCBudW1iZXIgb2YgZml4dHVyZSByZW1haW5lZCBmb3IgZWFjaCB0ZWFtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCBJZiBOdW1iZXIgT2YgUGxheWVkIE1hdGNoZXMgQXJlIENvcnJlY3QuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0SWZOdW1iZXJPZlBsYXllZE1hdGNoZXNBcmVDb3JyZWN0KCk6IHZvaWQKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDYsICR0aGlzLT5zdGF0aXN0aWNzU2VydmljZS0+Z2V0UGxheWVkTWF0Y2hlcygkdGhpcy0+dGVhbSwgJHRoaXMtPm1hdGNoZXMpKTsKICAgIH0KCiAgICAvKioKICAgICAqIFRlc3QgSWYgTnVtYmVyIE9mIFdvbiBNYXRjaGVzIEFyZSBDb3JyZWN0LgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdElmTnVtYmVyT2ZXb25NYXRjaGVzQXJlQ29ycmVjdCgpOiB2b2lkCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygzLCAkdGhpcy0+c3RhdGlzdGljc1NlcnZpY2UtPmdldE51bWJlck9mV29uTWF0Y2hlcygkdGhpcy0+dGVhbSwgJHRoaXMtPm1hdGNoZXMpKTsKICAgIH0KCiAgICAvKioKICAgICAqIFRlc3QgSWYgTnVtYmVyIE9mIERyYXcgTWF0Y2hlcyBBcmUgQ29ycmVjdC4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RJZk51bWJlck9mRHJhd01hdGNoZXNBcmVDb3JyZWN0KCk6IHZvaWQKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDAsICR0aGlzLT5zdGF0aXN0aWNzU2VydmljZS0+Z2V0TnVtYmVyT2ZEcmF3TWF0Y2hlcygkdGhpcy0+dGVhbSwgJHRoaXMtPm1hdGNoZXMpKTsKICAgIH0KCiAgICAvKioKICAgICAqIFRlc3QgSWYgTnVtYmVyIE9mIExvc3QgTWF0Y2hlcyBBcmUgQ29ycmVjdC4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RJZk51bWJlck9mTG9zdE1hdGNoZXNBcmVDb3JyZWN0KCk6IHZvaWQKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDMsICR0aGlzLT5zdGF0aXN0aWNzU2VydmljZS0+Z2V0TnVtYmVyT2ZMb3NzTWF0Y2hlcygkdGhpcy0+dGVhbSwgJHRoaXMtPm1hdGNoZXMpKTsKICAgIH0KCiAgICAvKioKICAgICAqIFRlc3QgSWYgR29hbCBEaWZmZXJlbmNlIElzIENvcnJlY3QuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0SWZHb2FsRGlmZmVyZW5jZUlzQ29ycmVjdCgpOiB2b2lkCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygwLCAkdGhpcy0+c3RhdGlzdGljc1NlcnZpY2UtPmdldEdvYWxEaWZmZXJlbmNlKCR0aGlzLT50ZWFtLCAkdGhpcy0+bWF0Y2hlcykpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhdGlzdGljc1NlcnZpY2UgPSBuZXcgU3RhdGlzdGljc1NlcnZpY2UobmV3IE1hdGNoUmVwb3NpdG9yeShuZXcgTWF0Y2goKSksIG5ldyBUZWFtUmVwb3NpdG9yeShuZXcgVGVhbSgpKSwgbmV3IFByZWRpY3Rpb25TZXJ2aWNlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGdvYWwgZGlmZmVyZW5jZSBieSB0aGUgdGVhbSBmcm9tIHRoZSBtYXRjaGVzLgogICAgICoKICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCiAgICAgKiBAcGFyYW0gQ29sbGVjdGlvbiAkbWF0Y2hlcwogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEdvYWxEaWZmZXJlbmNlKFRlYW0gJHRlYW0sIENvbGxlY3Rpb24gJG1hdGNoZXMpOiBpbnQKICAgIHsKICAgICAgICAkZ2QgPSAwOwoKICAgICAgICBmb3JlYWNoICgkbWF0Y2hlcyBhcyAkbWF0Y2gpIHsKICAgICAgICAgICAgaWYgKCR0aGlzLT5pc05vdFBsYXlpbmdUZWFtKCR0ZWFtLCAkbWF0Y2gpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCR0aGlzLT5pc0hvbWVUZWFtKCR0ZWFtLCAkbWF0Y2gpKSB7CiAgICAgICAgICAgICAgICAkZ2QgKz0gJG1hdGNoLT5ob21lX3RlYW1fc2NvcmUgLSAkbWF0Y2gtPmF3YXlfdGVhbV9zY29yZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCR0aGlzLT5pc0F3YXlUZWFtKCR0ZWFtLCAkbWF0Y2gpKSB7CiAgICAgICAgICAgICAgICAkZ2QgKz0gJG1hdGNoLT5hd2F5X3RlYW1fc2NvcmUgLSAkbWF0Y2gtPmhvbWVfdGVhbV9zY29yZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRnZDsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCBudW1iZXIgb2YgcGxheWVkIG1hdGNoZXMgYnkgdGhlIHRlYW0gZnJvbSBnaXZlbiBtYXRjaGVzLgogICAgICoKICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCiAgICAgKiBAcGFyYW0gQ29sbGVjdGlvbiAkbWF0Y2hlcwogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFBsYXllZE1hdGNoZXMoVGVhbSAkdGVhbSwgQ29sbGVjdGlvbiAkbWF0Y2hlcyk6IGludAogICAgewogICAgICAgICRob21lTWF0Y2hQbGF5ZWRDb3VudCA9IChpbnQpICRtYXRjaGVzLT53aGVyZSgnaG9tZV90ZWFtJywgJHRlYW0tPmlkKS0+Y291bnQoKTsKICAgICAgICAkYXdheU1hdGNoUGxheWVkQ291bnQgPSAoaW50KSAkbWF0Y2hlcy0+d2hlcmUoJ2F3YXlfdGVhbScsICR0ZWFtLT5pZCktPmNvdW50KCk7CgogICAgICAgIHJldHVybiAkaG9tZU1hdGNoUGxheWVkQ291bnQgKyAkYXdheU1hdGNoUGxheWVkQ291bnQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBHZXQgdG90YWwgbnVtYmVyIG9mIHdpbnMgYnkgdGhlIHRlYW0gZnJvbSBnaXZlbiBtYXRjaGVzLgogICAgICoKICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCiAgICAgKiBAcGFyYW0gQ29sbGVjdGlvbiAkbWF0Y2hlcwogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE51bWJlck9mV29uTWF0Y2hlcyhUZWFtICR0ZWFtLCBDb2xsZWN0aW9uICRtYXRjaGVzKTogaW50CiAgICB7CiAgICAgICAgJHdpbnMgPSAwOwoKICAgICAgICBmb3JlYWNoICgkbWF0Y2hlcyBhcyAkbWF0Y2gpIHsKICAgICAgICAgICAgaWYgKCR0aGlzLT5pc05vdFBsYXlpbmdUZWFtKCR0ZWFtLCAkbWF0Y2gpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCR0aGlzLT5hc0hvbWVUZWFtV29uKCR0ZWFtLCAkbWF0Y2gpKSB7CiAgICAgICAgICAgICAgICAkd2lucysrOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoJHRoaXMtPmFzQXdheVRlYW1Xb24oJHRlYW0sICRtYXRjaCkpIHsKICAgICAgICAgICAgICAgICR3aW5zKys7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkd2luczsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCB0b3RhbCBudW1iZXIgb2YgZHJhdyBtYXRjaGVzIGJ5IHRoZSB0ZWFtLgogICAgICoKICAgICAqIEBwYXJhbSBUZWFtICR0ZWFtCiAgICAgKiBAcGFyYW0gQ29sbGVjdGlvbiAkbWF0Y2hlcwogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE51bWJlck9mRHJhd01hdGNoZXMoVGVhbSAkdGVhbSwgQ29sbGVjdGlvbiAkbWF0Y2hlcyk6IGludAogICAgewogICAgICAgICRkcmF3ID0gMDsKCiAgICAgICAgZm9yZWFjaCAoJG1hdGNoZXMgYXMgJG1hdGNoKSB7CiAgICAgICAgICAgIGlmICgkdGhpcy0+aXNOb3RQbGF5aW5nVGVhbSgkdGVhbSwgJG1hdGNoKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmICgkdGhpcy0+YXNIb21lVGVhbURyYXcoJHRlYW0sICRtYXRjaCkpIHsKICAgICAgICAgICAgICAgICRkcmF3Kys7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmICgkdGhpcy0+YXNBd2F5VGVhbURyYXcoJHRlYW0sICRtYXRjaCkpIHsKICAgICAgICAgICAgICAgICRkcmF3Kys7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkZHJhdzsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCB0b3RhbCBudW1iZXIgb2YgbG9zcyBieSB0aGUgdGVhbSBmcm9tIGdpdmVuIG1hdGNoZXMuCiAgICAgKgogICAgICogQHBhcmFtIFRlYW0gJHRlYW0KICAgICAqIEBwYXJhbSBDb2xsZWN0aW9uICRtYXRjaGVzCiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TnVtYmVyT2ZMb3NzTWF0Y2hlcyhUZWFtICR0ZWFtLCBDb2xsZWN0aW9uICRtYXRjaGVzKTogaW50CiAgICB7CiAgICAgICAgJGxvc3MgPSAwOwoKICAgICAgICBmb3JlYWNoICgkbWF0Y2hlcyBhcyAkbWF0Y2gpIHsKICAgICAgICAgICAgaWYgKCR0aGlzLT5pc05vdFBsYXlpbmdUZWFtKCR0ZWFtLCAkbWF0Y2gpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCR0aGlzLT5hc0hvbWVUZWFtTG9zcygkdGVhbSwgJG1hdGNoKSkgewogICAgICAgICAgICAgICAgJGxvc3MrKzsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCR0aGlzLT5hc0F3YXlUZWFtTG9zcygkdGVhbSwgJG1hdGNoKSkgewogICAgICAgICAgICAgICAgJGxvc3MrKzsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRsb3NzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBTdGF0aXN0aWNzU2VydmljZQogICAgICovCiAgICBwcml2YXRlICRzdGF0aXN0aWNzU2VydmljZTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoU3RhdGlzdGljc1NlcnZpY2UgJHN0YXRpc3RpY3NTZXJ2aWNlKQogICAgewogICAgICAgICR0aGlzLT5zdGF0aXN0aWNzU2VydmljZSA9ICRzdGF0aXN0aWNzU2VydmljZTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZmluaXNoZWQgPSAkdGhpcy0+c3RhbmRpbmdSZXBvc2l0b3J5LT5nZXRBbGwoKTsKCiAgICAgICAgaWYgKCEgJHRoaXMtPmNoZWNrSWZQcmVkaWN0aW9uSXNOZWVkZWQoKSkgewogICAgICAgICAgICByZXR1cm4gW107CiAgICAgICAgfQogICAgICAgICR0ZWFtcyA9ICR0aGlzLT5jb2xsZWN0aW9uUHJlZGljdGlvbnMoJGZpbmlzaGVkKTsKICAgICAgICBkZCgkdGVhbXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdkICs9ICRtYXRjaC0+YXdheV90ZWFtX3Njb3JlIC0gJG1hdGNoLT5ob21lX3RlYW1fc2NvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW107CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFByZWRpY3Rpb24oKTogYXJyYXkKICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBQcmVkaWN0aW9uU2VydmljZQogICAgICovCiAgICBwcml2YXRlICRwcmVkaWN0aW9uU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
