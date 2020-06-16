@@ -125,13 +125,7 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592290272769">
-        <mark key="[" line="36" column="0" />
-        <mark key="m" line="40" column="27" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="29" column="55" />
-      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592292230349" />
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/config/simulation.php" timestamp="1592224126082">
         <mark key="[" line="43" column="22" />
         <mark key="]" line="43" column="23" />
@@ -145,10 +139,10 @@
         <mark key="." line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Repositories/MatchRepository.php" timestamp="1592288022470">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="47" />
-        <mark key="^" line="27" column="47" />
-        <mark key="." line="27" column="46" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/MatchesControllerTest.php" timestamp="1592219914256">
         <mark key="'" line="42" column="0" />
@@ -165,11 +159,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Http/Controllers/HomeController.php" timestamp="1592220012121">
         <mark key="^" line="20" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" timestamp="1592290358283">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/resources/js/lang/en.json" timestamp="1592227170148">
         <mark key="[" line="16" column="26" />
