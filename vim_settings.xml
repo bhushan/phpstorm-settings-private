@@ -110,11 +110,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592329378682">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592332277338">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="82" column="11" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/webpack.mix.js" timestamp="1592327784031" />
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592320353306">
@@ -155,6 +155,12 @@
         <mark key="]" line="26" column="30" />
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/composer.json" timestamp="1592330760621">
+        <mark key="[" line="3" column="223" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="55" />
+        <mark key="^" line="3" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Database/Seeds/TestMatchesTableSeeder.php" timestamp="1592327581621">
         <mark key="[" line="34" column="31" />
@@ -299,10 +305,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>records</text>
+        <text>$predictionServiceMock</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -311,31 +317,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRjb3JyZWN0UmVjb3JkcywgJGRhdGFbMF1bJ3JlY29yZHMnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YVswXVsncHJlZGljdGlvbnMnXSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YVswXVsncmVjb3JkcyddKTsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXREdW1teVByZWRpY3Rpb25zKCk6IGFycmF5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICR0aGlzLT5zdGF0aXN0aWNzU2VydmljZS0+Z2V0RGF0YSgkd2Vla0lkKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAxCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVhbSA9IFRlYW06OmZpcnN0KCk7CiAgICAgICAgJHRoaXMtPm1hdGNoZXMgPSBNYXRjaDo6YWxsKCk7Cgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgJHByZWRpY3Rpb25TZXJ2aWNlTW9jayA9IE1vY2tlcnk6Om1vY2soUHJlZGljdGlvblNlcnZpY2U6OmNsYXNzKTsKICAgICAgICAkcHJlZGljdGlvblNlcnZpY2VNb2NrLT5zaG91bGRSZWNlaXZlKCdnZXRQcmVkaWN0aW9ucycpCiAgICAgICAgICAgIC0+b25jZSgpLT5hbmRSZXR1cm4oJHRoaXMtPmdldER1bW15UHJlZGljdGlvbnMoKSk7Cj09PT09PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCBWZXJpZmllcyBHZXQgRGF0YSBSZXR1cm5zIFByb3BlciBEYXRhLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFZlcmlmaWVzR2V0RGF0YVJldHVybnNQcm9wZXJEYXRhKCk6IHZvaWQKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkY2FzdHMgPSBbCiAgICAgICAgJ2hvbWVfdGVhbV9zY29yZScgPT4gJ2ludGVnZXInLAogICAgICAgICdhd2F5X3RlYW1fc2NvcmUnID0+ICdpbnRlZ2VyJywKICAgIF07CiAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlcyBkZWZhdWx0IHNldHVwIGZvciB0aGlzIGNsYXNzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKTogdm9pZAogICAgewogICAgICAgIHBhcmVudDo6c2V0VXAoKTsKCiAgICAgICAgJHRoaXMtPnNlZWREYXRhKCk7CgogICAgICAgICRwcmVkaWN0aW9uU2VydmljZU1vY2sgPSBNb2NrZXJ5Ojptb2NrKFByZWRpY3Rpb25TZXJ2aWNlOjpjbGFzcyk7CiAgICAgIAogICAgICAgICRwcmVkaWN0aW9uU2VydmljZU1vY2stPnNob3VsZFJlY2VpdmUoJ2dldFByZWRpY3Rpb25zJykKICAgICAgICAgICAgLT5vbmNlKCktPmFuZFJldHVybigkdGhpcy0+Z2V0RHVtbXlQcmVkaWN0aW9ucygpKTsKCiAgICAgICAgJHRoaXMtPnN0YXRpc3RpY3NTZXJ2aWNlID0gbmV3IFN0YXRpc3RpY3NTZXJ2aWNlKAogICAgICAgICAgICBuZXcgTWF0Y2hSZXBvc2l0b3J5KG5ldyBNYXRjaCgpKSwKICAgICAgICAgICAgbmV3IFRlYW1SZXBvc2l0b3J5KG5ldyBUZWFtKCkpLAogICAgICAgICAgICAkcHJlZGljdGlvblNlcnZpY2VNb2NrCiAgICAgICAgKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFByZWRpY3Rpb25TZXJ2aWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
