@@ -125,11 +125,11 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592249829567">
-        <mark key="[" line="51" column="69" />
-        <mark key="]" line="52" column="8" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="8" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592284538818">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="121" column="8" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/config/simulation.php" timestamp="1592224126082">
         <mark key="[" line="43" column="22" />
@@ -333,8 +333,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>$index == 6 ? [] :</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZChhcnJheV9tYXAoZnVuY3Rpb24gKCR2YWx1ZSkgewogICAgICAgICAgICByZXR1cm4gJHZhbHVlID0gMDsKICAgICAgICB9LCAkcmF3UHJlZGljdGlvbikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$index == 6 ? [] :</text>
@@ -346,31 +346,31 @@
         <text encoding="base64">ICAgICAgICBpdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3Jkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChhcnJheV9tYXAoZnVuY3Rpb24gKCR2YWx1ZSkgewogICAgICAgICAgICByZXR1cm4gJHZhbHVlID0gMDsKICAgICAgICB9LCAkcmF3UHJlZGljdGlvbikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2hhbmNlSW5QZXJjZW50YWdlKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA2Clt0ZWFtQSA9PiAyICwgdGVhbUIgPT4gMSBdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3JkcykK</text>
+        <text encoding="base64">ICAgICAgICA2Clt0ZWFtQSA9PiAyICwgdGVhbUIgPT4gMSBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmF3UHJlZGljdGlvbik7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3JkcykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkcmVjb3Jkcy0+Zmlyc3QoKVsncGxheWVkJ10gPT0gMCB8fCAkcmVjb3Jkcy0+Zmlyc3QoKVsncGxheWVkJ10gPT0gNikgewovLyAgICAgICAgICAgIHJldHVybiBbXTsKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmF3UHJlZGljdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
