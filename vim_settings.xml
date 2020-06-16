@@ -125,11 +125,11 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592284538818">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="121" column="8" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/PredictionService.php" timestamp="1592285626064">
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="32" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="95" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/config/simulation.php" timestamp="1592224126082">
         <mark key="[" line="43" column="22" />
@@ -142,12 +142,6 @@
         <mark key="]" line="20" column="17" />
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Repositories/MatchRepository.php" timestamp="1592244860976">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="6" />
-        <mark key="^" line="23" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/MatchesControllerTest.php" timestamp="1592219914256">
         <mark key="'" line="42" column="0" />
