@@ -116,7 +116,9 @@
         <mark key="^" line="82" column="11" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/webpack.mix.js" timestamp="1592327784031" />
+      <file name="/Dummy.txt" timestamp="1592386745596">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592320353306">
         <mark key="[" line="42" column="56" />
         <mark key="]" line="40" column="10" />
@@ -137,6 +139,7 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/league-simulator/tests/Feature/Controllers/API/MatchControllerTest.php" timestamp="1592387037203" />
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/factories/WeekFactory.php" timestamp="1592318219465">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="10" column="0" />
@@ -156,9 +159,9 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/composer.json" timestamp="1592330760621">
-        <mark key="[" line="3" column="223" />
-        <mark key="]" line="3" column="56" />
+      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/composer.json" timestamp="1592332726515">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="171" />
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="56" />
       </file>
@@ -180,7 +183,6 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Database/Seeds/TestTeamsTableSeeder.php" timestamp="1592326878901" />
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Models/Match.php" timestamp="1592327505162">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -304,8 +306,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>In this project, a simulation is created in which there will be a group of football teams and the simulation will show match results and the league table.</text>
       </register>
       <register name="-" type="4">
         <text>$predictionServiceMock</text>
@@ -313,8 +315,8 @@
       <register name="/" type="4">
         <text>home</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRjb3JyZWN0UmVjb3JkcywgJGRhdGFbMF1bJ3JlY29yZHMnXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>In this project, a simulation is created in which there will be a group of football teams and the simulation will show match results and the league table.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
