@@ -161,12 +161,6 @@
         <mark key="^" line="29" column="30" />
         <mark key="." line="29" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/WeekService.php" timestamp="1592318030481">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="30" />
-        <mark key="^" line="26" column="30" />
-        <mark key="." line="26" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/composer.json" timestamp="1592332726515">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="171" />
@@ -205,7 +199,6 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulator/bootstrap/app.php" timestamp="1592404731048" />
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/migrations/2020_06_09_104418_create_teams_table.php" timestamp="1592318362894">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="43" />
