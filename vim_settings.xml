@@ -201,17 +201,12 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/PredictionService.php" timestamp="1592543346332">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/migrations/2020_06_09_104418_create_teams_table.php" timestamp="1592318362894">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="42" />
+      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/PredictionService.php" timestamp="1592544733640">
+        <mark key="a" line="17" column="0" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -320,10 +315,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>In this project, a simulation is created in which there will be a group of football teams and the simulation will show match results and the league table.</text>
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>$predictionServiceMock</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
