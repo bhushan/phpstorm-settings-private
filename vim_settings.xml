@@ -90,7 +90,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -115,6 +115,11 @@
         <mark key="]" line="81" column="0" />
         <mark key="^" line="82" column="11" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/DesignPatternsPHP/Behavioral/Command/HelloCommand.php" timestamp="1592541406567">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="156" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1592386745596">
         <mark key="[" line="0" column="0" />
