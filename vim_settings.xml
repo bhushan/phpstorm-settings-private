@@ -124,6 +124,12 @@
       <file name="/Dummy.txt" timestamp="1592386745596">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/MatchService.php" timestamp="1592546704053">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592320353306">
         <mark key="[" line="42" column="56" />
         <mark key="]" line="40" column="10" />
@@ -155,13 +161,6 @@
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/database/seeds/MatchesTableSeeder.php" timestamp="1592318535996">
-        <mark key="i" line="28" column="39" />
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="30" />
-        <mark key="^" line="29" column="30" />
-        <mark key="." line="29" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Code/fortel-network-challenge-new/composer.json" timestamp="1592332726515">
         <mark key="[" line="3" column="18" />
@@ -314,8 +313,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>request</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>request</text>
@@ -327,31 +326,31 @@
         <text>In this project, a simulation is created in which there will be a group of football teams and the simulation will show match results and the league table.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXREdW1teVByZWRpY3Rpb25zKCk6IGFycmF5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXREdW1teVByZWRpY3Rpb25zKCk6IGFycmF5Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgJHByZWRpY3Rpb25TZXJ2aWNlTW9jayA9IE1vY2tlcnk6Om1vY2soUHJlZGljdGlvblNlcnZpY2U6OmNsYXNzKTsKICAgICAgICAkcHJlZGljdGlvblNlcnZpY2VNb2NrLT5zaG91bGRSZWNlaXZlKCdnZXRQcmVkaWN0aW9ucycpCiAgICAgICAgICAgIC0+b25jZSgpLT5hbmRSZXR1cm4oJHRoaXMtPmdldER1bW15UHJlZGljdGlvbnMoKSk7Cj09PT09PT0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlcyBkZWZhdWx0IHNldHVwIGZvciB0aGlzIGNsYXNzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKTogdm9pZAogICAgewogICAgICAgIHBhcmVudDo6c2V0VXAoKTsKCiAgICAgICAgJHRoaXMtPnNlZWREYXRhKCk7CgogICAgICAgICRwcmVkaWN0aW9uU2VydmljZU1vY2sgPSBNb2NrZXJ5Ojptb2NrKFByZWRpY3Rpb25TZXJ2aWNlOjpjbGFzcyk7CiAgICAgIAogICAgICAgICRwcmVkaWN0aW9uU2VydmljZU1vY2stPnNob3VsZFJlY2VpdmUoJ2dldFByZWRpY3Rpb25zJykKICAgICAgICAgICAgLT5vbmNlKCktPmFuZFJldHVybigkdGhpcy0+Z2V0RHVtbXlQcmVkaWN0aW9ucygpKTsKCiAgICAgICAgJHRoaXMtPnN0YXRpc3RpY3NTZXJ2aWNlID0gbmV3IFN0YXRpc3RpY3NTZXJ2aWNlKAogICAgICAgICAgICBuZXcgTWF0Y2hSZXBvc2l0b3J5KG5ldyBNYXRjaCgpKSwKICAgICAgICAgICAgbmV3IFRlYW1SZXBvc2l0b3J5KG5ldyBUZWFtKCkpLAogICAgICAgICAgICAkcHJlZGljdGlvblNlcnZpY2VNb2NrCiAgICAgICAgKTsKICAgIH0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgJHByZWRpY3Rpb25TZXJ2aWNlTW9jayA9IE1vY2tlcnk6Om1vY2soUHJlZGljdGlvblNlcnZpY2U6OmNsYXNzKTsKICAgICAgICAkcHJlZGljdGlvblNlcnZpY2VNb2NrLT5zaG91bGRSZWNlaXZlKCdnZXRQcmVkaWN0aW9ucycpCiAgICAgICAgICAgIC0+b25jZSgpLT5hbmRSZXR1cm4oJHRoaXMtPmdldER1bW15UHJlZGljdGlvbnMoKSk7Cj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFByZWRpY3Rpb25TZXJ2aWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
