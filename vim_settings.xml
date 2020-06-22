@@ -124,7 +124,6 @@
       <file name="/PHP Console" timestamp="1592405171844">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Models/User.php" timestamp="1592806763596" />
       <file name="/fragment.php" timestamp="1592405137128">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,9 +142,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/PredictionService.php" timestamp="1592550209543">
+      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/PredictionService.php" timestamp="1592833049301">
         <mark key="a" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592805622611">
         <mark key="'" line="42" column="34" />
