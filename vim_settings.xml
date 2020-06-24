@@ -105,7 +105,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
@@ -142,7 +142,8 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592991531232">
+      <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592993954721">
+        <mark key="'" line="38" column="44" />
         <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Database/Seeds/TestMatchesTableSeeder.php" timestamp="1592805530740">
@@ -163,14 +164,18 @@
         <mark key="." line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/vendor/laravel/framework/composer.json" timestamp="1592985284643" />
+      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/StatisticsService.php" timestamp="1592994489955">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="260" column="27" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/app/Http/Middleware/Authenticate.php" timestamp="1592992351490" />
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592805622611">
         <mark key="'" line="42" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="9" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/forms/Login.php" />
-      <jump line="34" column="19" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
       <jump line="2" column="8" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/views/scripts/purchase/verify.phtml" />
@@ -269,12 +274,14 @@
       <jump line="279" column="34" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/app/Services/StatisticsService.php" />
       <jump line="27" column="7" filename="$USER_HOME$/Documents/Code/fortel-network-challenge-new/tests/Feature/Controllers/API/LeagueControllerTest.php" />
       <jump line="42" column="34" filename="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/PredictionServiceTest.php" />
+      <jump line="38" column="44" filename="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/StatisticsServiceTest.php" />
+      <jump line="275" column="0" filename="$USER_HOME$/Documents/Code/league-simulation/app/Services/StatisticsService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -286,7 +293,7 @@
         <text encoding="base64">dXNlIEFwcFxNb2RlbHNce1RlYW0sIE1hdGNofTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
@@ -301,16 +308,16 @@
         <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBxdWljay1maXhlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXREdW1teVByZWRpY3Rpb25zKCk6IGFycmF5Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXREdW1teVByZWRpY3Rpb25zKCk6IGFycmF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>

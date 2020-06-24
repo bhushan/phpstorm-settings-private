@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="GotoBookmark1" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -43,6 +46,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="GotoTest" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -95,6 +101,9 @@
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="Tool_External Tools_Custom PHP CS Fixer">
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
