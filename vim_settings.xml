@@ -105,6 +105,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -139,7 +142,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592806819997">
+      <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/StatisticsServiceTest.php" timestamp="1592991531232">
         <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Database/Seeds/TestMatchesTableSeeder.php" timestamp="1592805530740">
@@ -160,6 +163,7 @@
         <mark key="." line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/vendor/laravel/framework/composer.json" timestamp="1592985284643" />
+      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Http/Middleware/Authenticate.php" timestamp="1592992351490" />
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592805622611">
         <mark key="'" line="42" column="34" />
       </file>
