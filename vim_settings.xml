@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>recor</entry>
         <entry>try</entry>
         <entry>tr</entry>
@@ -25,6 +24,7 @@
         <entry>liver</entry>
         <entry>Liver</entry>
         <entry>home</entry>
+        <entry>%s</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -152,7 +152,6 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php" timestamp="1592985010826" />
       <file name="/PHP Console" timestamp="1592405171844">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,20 +162,18 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/vendor/laravel/framework/composer.json" timestamp="1592985284643" />
-      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/StatisticsService.php" timestamp="1592994489955">
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="260" column="27" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/StatisticsService.php" timestamp="1592996859101">
+        <mark key="'" line="273" column="0" />
+        <mark key="[" line="176" column="18" />
+        <mark key="]" line="180" column="7" />
+        <mark key="^" line="180" column="7" />
+        <mark key="." line="180" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/league-simulation/app/Http/Middleware/Authenticate.php" timestamp="1592992351490" />
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592805622611">
         <mark key="'" line="42" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/controllers/LoginController.php" />
       <jump line="2" column="8" filename="$USER_HOME$/Documents/Code/ecommerce/application/modules/bastrucks/views/scripts/purchase/verify.phtml" />
       <jump line="518" column="20" filename="$USER_HOME$/Documents/Code/ecommerce/library/Zend/Form.php" />
@@ -276,6 +273,7 @@
       <jump line="42" column="34" filename="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/PredictionServiceTest.php" />
       <jump line="38" column="44" filename="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/StatisticsServiceTest.php" />
       <jump line="275" column="0" filename="$USER_HOME$/Documents/Code/league-simulation/app/Services/StatisticsService.php" />
+      <jump line="273" column="0" filename="$USER_HOME$/Documents/Code/league-simulation/app/Services/StatisticsService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,7 +285,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>home</text>
+        <text>%s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIEFwcFxNb2RlbHNce1RlYW0sIE1hdGNofTsK</text>
@@ -326,9 +324,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>home</last-search>
-      <last-offset />
-      <last-pattern>home</last-pattern>
+      <last-search>%s</last-search>
+      <last-offset>public/private/g</last-offset>
+      <last-pattern>%s</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>protected</last-substitute>
       <last-dir>1</last-dir>
