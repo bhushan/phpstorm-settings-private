@@ -139,10 +139,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593405109666">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1592405137128">
+      <file name="/GraphQL.result.json" timestamp="1593412629698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Feature/Controllers/API/LeagueControllerTest.php" timestamp="1592805432688">
@@ -161,11 +158,14 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/config/cors.php" timestamp="1593317569265">
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/config/filesystems.php" timestamp="1593413067947">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/config/cors.php" timestamp="1593413297771">
         <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="32" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/seeds/DatabaseSeeder.php" timestamp="1593318483046">
         <mark key="[" line="13" column="0" />
@@ -175,7 +175,7 @@
       <file name="/PHP Console" timestamp="1592405171844">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1593406496743">
+      <file name="/GraphQL.variables.json" timestamp="1593413234165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/league-simulation/app/Services/PredictionService.php" timestamp="1592833049301">
@@ -195,7 +195,7 @@
       <file name="$USER_HOME$/Documents/Code/league-simulation/tests/Unit/Services/PredictionServiceTest.php" timestamp="1592805622611">
         <mark key="'" line="42" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/.gitignore" timestamp="1593317364377">
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/.gitignore" timestamp="1593412832609">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="25" />
         <mark key="^" line="22" column="25" />
