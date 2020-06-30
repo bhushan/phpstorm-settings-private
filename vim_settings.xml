@@ -113,42 +113,67 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/graphql/schema.graphql" timestamp="1593516160917">
-        <mark key="[" line="50" column="18" />
-        <mark key="]" line="50" column="9" />
-        <mark key="^" line="50" column="9" />
-        <mark key="." line="50" column="8" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_132306_create_orders_table.php" timestamp="1593517819973">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+        <mark key="." line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_132306_create_orders_table.php" timestamp="1593514884744">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="19" column="73" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_30_123602_create_order_delivery_addresses_table.php" timestamp="1593520691351">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/tests/Feature/ExampleTest.php" timestamp="1593516064578">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="41" />
-        <mark key="." line="17" column="40" />
-        <mark key="^" line="17" column="41" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_30_123235_create_order_deliveries_table.php" timestamp="1593520762257">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="20" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderDeliveryAddressFactory.php" timestamp="1593520580119">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_134941_create_order_contacts_table.php" timestamp="1593441551127">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/OrderDeliveryCost.php" timestamp="1593520428855">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderDeliveryFactory.php" timestamp="1593520392990">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/graphql/schema.graphql" timestamp="1593519876498">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/tests/Feature/ExampleTest.php" timestamp="1593521041683">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/OrderContact.php" timestamp="1593514809262">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="15" column="40" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1593438832473">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1593514538720">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_135234_create_order_ftao_table.php" timestamp="1593441544056">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/seeds/DatabaseSeeder.php" timestamp="1593515490150">
         <mark key="[" line="17" column="21" />
@@ -162,52 +187,22 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="34" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/config/lighthouse.php" timestamp="1593440090881">
-        <mark key="[" line="121" column="27" />
-        <mark key="]" line="121" column="33" />
-        <mark key="." line="121" column="32" />
-        <mark key="^" line="121" column="33" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderDeliveryCostFactory.php" timestamp="1593520323733">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="43" />
+        <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderFactory.php" timestamp="1593438982305">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="13" column="53" />
-        <mark key="^" line="13" column="53" />
-        <mark key="." line="13" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_134941_create_order_contacts_table.php" timestamp="1593441551127">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/OrderFTAO.php" timestamp="1593438894065">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="7" />
-      </file>
-      <file name="/GraphQL.variables.json" timestamp="1593515955380">
+      <file name="/GraphQL.variables.json" timestamp="1593519033163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_30_105956_create_order_cost_headings_table.php" timestamp="1593515572284">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="32" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="29" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderContactFactory.php" timestamp="1593441498088">
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_30_105956_create_order_cost_headings_table.php" timestamp="1593520598551">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1593441529076">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderFTAOFactory.php" timestamp="1593441488063">
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_30_115941_create_order_delivery_costs_table.php" timestamp="1593520377948">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -219,9 +214,9 @@
         <mark key="." line="15" column="53" />
         <mark key="^" line="15" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/OrderCostHeading.php" timestamp="1593514821764">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="43" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/OrderCostHeading.php" timestamp="1593518395988">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="42" />
       </file>
@@ -331,44 +326,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZChPcmRlckRlbGl2ZXJ5OjpmaW5kKDEpLT5jb3N0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>order_delivery</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkOiBJRCEKICAgIG5hbWU6IFN0cmluZyEKICAgIGNvbXBhbnk6IFN0cmluZyEKICAgIGNyZWF0ZWRfYXQ6IERhdGVUaW1lIQogICAgdXBkYXRlZF9hdDogRGF0ZVRpbWUhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3ppcCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChPcmRlckRlbGl2ZXJ5OjpmaW5kKDEpLT5jb3N0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDApOwo=</text>
+        <text encoding="base64">ICAgIHVzZSBSZWZyZXNoRGF0YWJhc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChPcmRlcjo6ZmluZCgzKS0+Y29zdEhlYWRpbmdzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqIEB2YXIgRmFjdG9yeSAkZmFjdG9yeSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">LyoqIEB2YXIgRmFjdG9yeSAkZmFjdG9yeSAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ2Z0YW9faWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ2Nvc3RfaWQnKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RG9uYWxkCg==</text>
+        <text encoding="base64">LyoqIEB2YXIgRmFjdG9yeSAkZmFjdG9yeSAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
