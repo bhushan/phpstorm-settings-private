@@ -137,12 +137,8 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/OrderFTAO.php" timestamp="1593589167975">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/vendor/mll-lab/laravel-graphql-playground/src/graphql-playground.php" timestamp="1593611085476" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/config/lighthouse.php" timestamp="1593611000330" />
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderFactory.php" timestamp="1593605764978">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="27" />
@@ -154,17 +150,6 @@
         <mark key="]" line="19" column="51" />
         <mark key="^" line="30" column="32" />
         <mark key="." line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/GraphQL/Queries/LatestSomething.php" timestamp="1593597104735">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Products/Models/Product.php" timestamp="1593589186198">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/SupplierFactory.php" timestamp="1593608125225">
         <mark key="[" line="0" column="5" />
@@ -213,6 +198,12 @@
       </file>
       <file name="/GraphQL.variables.json" timestamp="1593608480858">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/.env" timestamp="1593611153129">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/OrderMenuFactory.php" timestamp="1593608091449">
         <mark key="[" line="13" column="0" />
@@ -325,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Supplier</text>
+        <text>production</text>
       </register>
       <register name="-" type="4">
-        <text>Supplier</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
