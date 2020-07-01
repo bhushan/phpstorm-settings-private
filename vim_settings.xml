@@ -145,11 +145,11 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_01_071722_create_order_product_table.php" timestamp="1593608057899">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="51" />
-        <mark key="^" line="30" column="32" />
-        <mark key="." line="30" column="31" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_01_071722_create_order_product_table.php" timestamp="1593614463843">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="55" />
+        <mark key="^" line="22" column="55" />
+        <mark key="." line="22" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/SupplierFactory.php" timestamp="1593608125225">
         <mark key="[" line="0" column="5" />
@@ -173,9 +173,6 @@
         <mark key="]" line="19" column="51" />
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1593604324522">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/seeds/DatabaseSeeder.php" timestamp="1593608471980">
         <mark key="[" line="34" column="20" />
