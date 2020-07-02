@@ -113,11 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_132306_create_orders_table.php" timestamp="1593678743767">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="40" />
-        <mark key="^" line="30" column="65" />
-        <mark key="." line="30" column="40" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_132306_create_orders_table.php" timestamp="1593680299875">
+        <mark key="[" line="32" column="53" />
+        <mark key="]" line="32" column="60" />
+        <mark key="^" line="32" column="60" />
+        <mark key="." line="32" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Misc/Models/Activity.php" timestamp="1593675199534">
         <mark key="[" line="12" column="10" />
@@ -320,16 +320,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>timeplane_id</text>
+        <text>deafult</text>
       </register>
       <register name="-" type="4">
-        <text>timeplane_id</text>
+        <text>deafult</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3RpbWVwbGFuZV9pZCcpLT5kZWZhdWx0KDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29yaWdpbmFsX3N1cHBsaWVyJyktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT51cGRhdGUoWydzdGF0dXMnID0+ICdJTlZPSUNFJ10pOwogICAgICAgIH0pOwogICAgfQp9</text>
