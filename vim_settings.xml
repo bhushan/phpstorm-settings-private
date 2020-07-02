@@ -113,11 +113,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_132306_create_orders_table.php" timestamp="1593680299875">
-        <mark key="[" line="32" column="53" />
-        <mark key="]" line="32" column="60" />
-        <mark key="^" line="32" column="60" />
-        <mark key="." line="32" column="59" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_06_29_132306_create_orders_table.php" timestamp="1593685088533">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Misc/Models/Activity.php" timestamp="1593675199534">
         <mark key="[" line="12" column="10" />
@@ -149,11 +148,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/graphql/schema.graphql" timestamp="1593678443672">
-        <mark key="[" line="135" column="12" />
-        <mark key="]" line="135" column="12" />
-        <mark key="." line="135" column="11" />
-        <mark key="^" line="135" column="12" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/graphql/schema.graphql" timestamp="1593684961869">
+        <mark key="[" line="148" column="33" />
+        <mark key="]" line="149" column="22" />
+        <mark key="." line="149" column="21" />
+        <mark key="^" line="149" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1593672375616">
         <mark key="[" line="0" column="0" />
@@ -186,12 +185,12 @@
         <mark key="." line="40" column="33" />
         <mark key="^" line="40" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/Order.php" timestamp="1593673681050">
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/Order.php" timestamp="1593685145188">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="17" column="24" />
+        <mark key="[" line="169" column="7" />
+        <mark key="]" line="171" column="7" />
+        <mark key="." line="171" column="6" />
+        <mark key="^" line="171" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/CustomerFactory.php" timestamp="1593678046641">
         <mark key="[" line="13" column="0" />
@@ -199,7 +198,7 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1593678403122">
+      <file name="/GraphQL.variables.json" timestamp="1593685337961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/phpunit.xml" timestamp="1593675476745" />
@@ -319,44 +318,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>deafult</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdzdXBwbGllcnMnKS0+bnVsbGFibGUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>deafult</text>
+        <text encoding="base64">LT5kZWZhdWx0KCd7fScpOw==</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29yaWdpbmFsX3N1cHBsaWVyJyktPm51bGxhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIG9yaWdpbmFsX3N1cHBsaWVyOiBJbnQK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdzdXBwbGllcnMnKS0+bnVsbGFibGUoKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT51cGRhdGUoWydzdGF0dXMnID0+ICdJTlZPSUNFJ10pOwogICAgICAgIH0pOwogICAgfQp9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkb3JkZXIgPSBmYWN0b3J5KE9yZGVyOjpjbGFzcyktPmNyZWF0ZSgpOwoKICAgICAgICBkZCgkb3JkZXItPmFjdGl2aXR5KTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG5hbWU6IFN0cmluZwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">dWNmaXJzdCgkdHlwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGFjdGl2aXR5IHR5cGUuCiAgICAgKgogICAgICogQHBhcmFtICRldmVudAogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqIEB0aHJvd3MgUmVmbGVjdGlvbkV4Y2VwdGlvbgogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0QWN0aXZpdHlUeXBlKHN0cmluZyAkZXZlbnQpOiBzdHJpbmcKICAgIHsKICAgICAgICAkdHlwZSA9IHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCR0aGlzKSktPmdldFNob3J0TmFtZSgpKTsKCiAgICAgICAgcmV0dXJuICJ7JGV2ZW50fV97JHR5cGV9IjsKICAgIH0K</text>
+        <text encoding="base64">dWNmaXJzdCgkdHlwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGFjdGl2aXR5IHR5cGUuCiAgICAgKgogICAgICogQHBhcmFtICRldmVudAogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqIEB0aHJvd3MgUmVmbGVjdGlvbkV4Y2VwdGlvbgogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0QWN0aXZpdHlUeXBlKHN0cmluZyAkZXZlbnQpOiBzdHJpbmcKICAgIHsKICAgICAgICAkdHlwZSA9IHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCR0aGlzKSktPmdldFNob3J0TmFtZSgpKTsKCiAgICAgICAgcmV0dXJuICJ7JGV2ZW50fV97JHR5cGV9IjsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXV0aCgpLT5ndWVzdCgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXV0aCgpLT5ndWVzdCgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
