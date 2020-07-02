@@ -136,6 +136,11 @@
         <mark key="." line="38" column="34" />
         <mark key="^" line="38" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_01_124858_create_suppliers_table.php" timestamp="1593689288770">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/ObservationFactory.php" timestamp="1593671520813">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="37" />
@@ -163,17 +168,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_02_062937_create_observations_table.php" timestamp="1593671457136">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="20" column="36" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_02_062937_create_observations_table.php" timestamp="1593689298963">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="20" column="36" />
-        <mark key="." line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_01_124946_create_customers_table.php" timestamp="1593671272065">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="46" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="21" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/UserFactory.php" timestamp="1593671277893">
         <mark key="[" line="13" column="0" />
@@ -319,7 +318,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdzdXBwbGllcnMnKS0+bnVsbGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29yZGVyX2lkJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LT5kZWZhdWx0KCd7fScpOw==</text>
@@ -328,34 +327,34 @@
         <text>%s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9yaWdpbmFsX3N1cHBsaWVyOiBJbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29yZGVyX2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCduYW1lJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdlbWFpbCcpLT51bmlxdWUoKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7CgogICAgICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ29yZGVyX2lkJykKICAgICAgICAgICAgICAgIC0+cmVmZXJlbmNlcygnaWQnKQogICAgICAgICAgICAgICAgLT5vbignb3JkZXJzJykKICAgICAgICAgICAgICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdzdXBwbGllcnMnKS0+bnVsbGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29yZGVyX2lkJyk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT51cGRhdGUoWydzdGF0dXMnID0+ICdJTlZPSUNFJ10pOwogICAgICAgIH0pOwogICAgfQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2VtYWlsJyktPnVuaXF1ZSgpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JkZXIgPSBmYWN0b3J5KE9yZGVyOjpjbGFzcyktPmNyZWF0ZSgpOwoKICAgICAgICBkZCgkb3JkZXItPmFjdGl2aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdzdXBwbGllcnMnKS0+bnVsbGFibGUoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IFN0cmluZwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT51cGRhdGUoWydzdGF0dXMnID0+ICdJTlZPSUNFJ10pOwogICAgICAgIH0pOwogICAgfQp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXIgPSBmYWN0b3J5KE9yZGVyOjpjbGFzcyktPmNyZWF0ZSgpOwoKICAgICAgICBkZCgkb3JkZXItPmFjdGl2aXR5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dWNmaXJzdCgkdHlwZSkK</text>
+        <text encoding="base64">ICAgIG5hbWU6IFN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGFjdGl2aXR5IHR5cGUuCiAgICAgKgogICAgICogQHBhcmFtICRldmVudAogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqIEB0aHJvd3MgUmVmbGVjdGlvbkV4Y2VwdGlvbgogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0QWN0aXZpdHlUeXBlKHN0cmluZyAkZXZlbnQpOiBzdHJpbmcKICAgIHsKICAgICAgICAkdHlwZSA9IHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCR0aGlzKSktPmdldFNob3J0TmFtZSgpKTsKCiAgICAgICAgcmV0dXJuICJ7JGV2ZW50fV97JHR5cGV9IjsKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">dWNmaXJzdCgkdHlwZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXV0aCgpLT5ndWVzdCgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGFjdGl2aXR5IHR5cGUuCiAgICAgKgogICAgICogQHBhcmFtICRldmVudAogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqIEB0aHJvd3MgUmVmbGVjdGlvbkV4Y2VwdGlvbgogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0QWN0aXZpdHlUeXBlKHN0cmluZyAkZXZlbnQpOiBzdHJpbmcKICAgIHsKICAgICAgICAkdHlwZSA9IHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCR0aGlzKSktPmdldFNob3J0TmFtZSgpKTsKCiAgICAgICAgcmV0dXJuICJ7JGV2ZW50fV97JHR5cGV9IjsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
