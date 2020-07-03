@@ -127,6 +127,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/factories/ActivityFactory.php" timestamp="1593762998482">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/tests/Feature/ExampleTest.php" timestamp="1593675896340">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -143,7 +149,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="47" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593757274556">
+      <file name="/GraphQL.result.json" timestamp="1593762803092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Misc/Models/Activity.php" timestamp="1593675199534">
