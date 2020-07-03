@@ -138,20 +138,18 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593762803092">
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_02_062937_create_observations_table.php" timestamp="1593765679004">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_01_124946_create_customers_table.php" timestamp="1593765666737">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="38" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1593765147498">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Misc/Models/Activity.php" timestamp="1593675199534">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Misc/Models/Observation.php" timestamp="1593671563001">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Misc/Traits/RecordsActivity.php" timestamp="1593678503235">
         <mark key="[" line="38" column="25" />
@@ -210,11 +208,11 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/database/migrations/2020_07_02_064522_create_activities_table.php" timestamp="1593673067401">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="33" />
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/.env" timestamp="1593765239458">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -322,44 +320,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Activities</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ29yZGVyX2lkJykKICAgICAgICAgICAgLT5yZWZlcmVuY2VzKCdpZCcpCiAgICAgICAgICAgIC0+b24oJ29yZGVycycpCiAgICAgICAgICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Activities</text>
+        <text>laravel</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
-      <register name="0" type="4">
-        <text>Observations</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdvcmRlcl9pZCcpCiAgICAgICAgICAgICAgICAtPnJlZmVyZW5jZXMoJ2lkJykKICAgICAgICAgICAgICAgIC0+b24oJ29yZGVycycpCiAgICAgICAgICAgICAgICAtPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2R1bGVzXEFjdGl2aXRpZXNcTW9kZWxzXE9ic2VydmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ29yZGVyX2lkJykKICAgICAgICAgICAgLT5yZWZlcmVuY2VzKCdpZCcpCiAgICAgICAgICAgIC0+b24oJ29yZGVycycpCiAgICAgICAgICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29yZGVyX2lkJyk7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2R1bGVzXEFjdGl2aXRpZXNcTW9kZWxzXE9ic2VydmF0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2VtYWlsJyktPnVuaXF1ZSgpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29yZGVyX2lkJyk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2VtYWlsJyktPnVuaXF1ZSgpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdzdXBwbGllcnMnKS0+bnVsbGFibGUoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT51cGRhdGUoWydzdGF0dXMnID0+ICdJTlZPSUNFJ10pOwogICAgICAgIH0pOwogICAgfQp9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkb3JkZXIgPSBmYWN0b3J5KE9yZGVyOjpjbGFzcyktPmNyZWF0ZSgpOwoKICAgICAgICBkZCgkb3JkZXItPmFjdGl2aXR5KTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5hbWU6IFN0cmluZwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dWNmaXJzdCgkdHlwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
