@@ -113,34 +113,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/GraphQL.result.json" timestamp="1593933257429">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/resources/js/views/layouts/App.vue" timestamp="1593774167285">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/CheckForMaintenanceMode.php" timestamp="1593774570566">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1593776319829">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/TrimStrings.php" timestamp="1593776294988">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/EncryptCookies.php" timestamp="1593776225147">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/resources/views/home.blade.php" timestamp="1593774149758">
         <mark key="[" line="7" column="0" />
@@ -175,11 +154,35 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/CheckForMaintenanceMode.php" timestamp="1593774570566">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1593776319829">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/GraphQL.variables.json" timestamp="1593773160627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Kernel.php" timestamp="1593776379336">
         <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/TrimStrings.php" timestamp="1593776294988">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/EncryptCookies.php" timestamp="1593776225147">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
