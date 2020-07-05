@@ -4,6 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="2.0" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
