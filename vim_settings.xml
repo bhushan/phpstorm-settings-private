@@ -113,11 +113,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/ProfileController.php" timestamp="1594026757971">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594026836482">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" timestamp="1594026149286">
         <mark key="[" line="32" column="25" />
         <mark key="]" line="32" column="32" />
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/database/factories/UserFactory.php" timestamp="1594026087324">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/medi/.gitignore" timestamp="1594026187738">
         <mark key="[" line="12" column="14" />
@@ -128,13 +142,20 @@
       <file name="/a.dummy" timestamp="1594026594760">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/Auth/RegisterController.php" timestamp="1594025953740">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="50" column="64" />
-        <mark key="." line="38" column="0" />
+      <file name="/GraphQL.result.json" timestamp="1594032044358">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/resources/views/layouts/app.blade.php" timestamp="1594026980383" />
+      <file name="$USER_HOME$/Documents/Code/medi/resources/sass/app.scss" timestamp="1594033872858">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/resources/views/layouts/app.blade.php" timestamp="1594033926070">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/medi/routes/web.php" timestamp="1594026748683">
         <mark key="[" line="14" column="51" />
         <mark key="]" line="14" column="55" />
@@ -162,6 +183,12 @@
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Code/medi/resources/js/app.js" timestamp="1594033842602">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Code/medi/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1594026428358">
         <mark key="[" line="21" column="68" />
         <mark key="]" line="21" column="66" />
@@ -187,33 +214,10 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/ProfileController.php" timestamp="1594026757971">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594026836482">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/factories/UserFactory.php" timestamp="1594026087324">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1594026379223">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/Auth/VerificationController.php" timestamp="1594025973951">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/resources/views/welcome.blade.php" timestamp="1594027047809">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="24" />
+      <file name="$USER_HOME$/Documents/Code/medi/resources/views/welcome.blade.php" timestamp="1594033555643">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -321,44 +325,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS0gQ1NSRiBUb2tlbiAtLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>solid</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKCkBzZWN0aW9uKCdjb250ZW50JykKPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxkaXYgY2xhc3M9InJvdyBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyIj4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPnt7IF9fKCdEYXNoYm9hcmQnKSB9fTwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgQGlmIChzZXNzaW9uKCdzdGF0dXMnKSkKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtc3VjY2VzcyIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgc2Vzc2lvbignc3RhdHVzJykgfX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgQGVuZGlmCgogICAgICAgICAgICAgICAgICAgIHt7IF9fKCdZb3UgYXJlIGxvZ2dlZCBpbiEnKSB9fQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CjwvZGl2PgpAZW5kc2VjdGlvbgo=</text>
+        <text encoding="base64">QGltcG9ydCAifkBmb3J0YXdlc29tZS9mb250YXdlc29tZS1mcmVlL3Njc3Mvc29saWQuc2NzcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gQ1NSRiBUb2tlbiAtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gU2NyaXB0cyAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gRm9udHMgLS0+CiAgICA8bGluayByZWw9ImRucy1wcmVmZXRjaCIgaHJlZj0iLy9mb250cy5nc3RhdGljLmNvbSI+CiAgICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9TnVuaXRvIiByZWw9InN0eWxlc2hlZXQiPgoKICAgIDwhLS0gU3R5bGVzIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">aW1wb3J0ICdidWVmeS9kaXN0L2J1ZWZ5LmNzcycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWhlYWRlciI+e3sgX18oJ0Rhc2hib2FyZCcpIH19PC9kaXY+CgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoc2Vzc2lvbignc3RhdHVzJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1zdWNjZXNzIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgc2Vzc2lvbignc3RhdHVzJykgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKCiAgICAgICAgICAgICAgICAgICAgICAgIHt7IF9fKCdZb3UgYXJlIGxvZ2dlZCBpbiEnKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiLWZpZWxkIGxhYmVsPSJQYXNzd29yZCI+CiAgICAgICAgICAgICAgICAgICAgPGItaW5wdXQgdHlwZT0icGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Iml3YW50bXl0cmVhc3VyZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzd29yZC1yZXZlYWw+CiAgICAgICAgICAgICAgICAgICAgPC9iLWlucHV0PgogICAgICAgICAgICAgICAgPC9iLWZpZWxkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGlmIChSb3V0ZTo6aGFzKCdsb2dpbicpKQogICAgICAgIDxkaXYgY2xhc3M9InRvcC1yaWdodCBsaW5rcyI+CiAgICAgICAgICAgIEBhdXRoCiAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyB1cmwoJy9wcm9maWxlJykgfX0iPlByb2ZpbGU8L2E+CiAgICAgICAgICAgIEBlbHNlCiAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgnbG9naW4nKSB9fSI+TG9naW48L2E+CgogICAgICAgICAgICAgICAgQGlmIChSb3V0ZTo6aGFzKCdyZWdpc3RlcicpKQogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHJvdXRlKCdyZWdpc3RlcicpIH19Ij5SZWdpc3RlcjwvYT4KICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICBAZW5kYXV0aAogICAgICAgIDwvZGl2PgogICAgQGVuZGlmCgogICAgPGRpdiBjbGFzcz0iY29udGVudCI+CiAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUgbS1iLW1kIj4KICAgICAgICAgICAgTGFyYXZlbAogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiLWNoZWNrYm94IHYtbW9kZWw9ImNoZWNrYm94Q3VzdG9tIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZS12YWx1ZT0iWWVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UtdmFsdWU9Ik5vIj4KICAgICAgICAgICAgICAgIDwvYi1jaGVja2JveD4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9Int7IHN0cl9yZXBsYWNlKCdfJywgJy0nLCBhcHAoKS0+Z2V0TG9jYWxlKCkpIH19Ij4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgoKICAgIDx0aXRsZT5MYXJhdmVsPC90aXRsZT4KCiAgICA8IS0tIEZvbnRzIC0tPgogICAgPGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU51bml0bzoyMDAsNjAwIiByZWw9InN0eWxlc2hlZXQiPgoKICAgIDwhLS0gU3R5bGVzIC0tPgogICAgPHN0eWxlPgogICAgICAgIGh0bWwsIGJvZHkgewogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmOwogICAgICAgICAgICBjb2xvcjogIzYzNmI2ZjsKICAgICAgICAgICAgZm9udC1mYW1pbHk6ICdOdW5pdG8nLCBzYW5zLXNlcmlmOwogICAgICAgICAgICBmb250LXdlaWdodDogMjAwOwogICAgICAgICAgICBoZWlnaHQ6IDEwMHZoOwogICAgICAgICAgICBtYXJnaW46IDA7CiAgICAgICAgfQoKICAgICAgICAuZnVsbC1oZWlnaHQgewogICAgICAgICAgICBoZWlnaHQ6IDEwMHZoOwogICAgICAgIH0KCiAgICAgICAgLmZsZXgtY2VudGVyIHsKICAgICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgICAgfQoKICAgICAgICAucG9zaXRpb24tcmVmIHsKICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICAgIH0KCiAgICAgICAgLnRvcC1yaWdodCB7CiAgICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgICAgcmlnaHQ6IDEwcHg7CiAgICAgICAgICAgIHRvcDogMThweDsKICAgICAgICB9CgogICAgICAgIC5jb250ZW50IHsKICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIH0KCiAgICAgICAgLnRpdGxlIHsKICAgICAgICAgICAgZm9udC1zaXplOiA4NHB4OwogICAgICAgIH0KCiAgICAgICAgLmxpbmtzID4gYSB7CiAgICAgICAgICAgIGNvbG9yOiAjNjM2YjZmOwogICAgICAgICAgICBwYWRkaW5nOiAwIDI1cHg7CiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTNweDsKICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDYwMDsKICAgICAgICAgICAgbGV0dGVyLXNwYWNpbmc6IC4xcmVtOwogICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7CiAgICAgICAgICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7CiAgICAgICAgfQoKICAgICAgICAubS1iLW1kIHsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMzBweDsKICAgICAgICB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5Pgo8ZGl2IGNsYXNzPSJmbGV4LWNlbnRlciBwb3NpdGlvbi1yZWYgZnVsbC1oZWlnaHQiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBjaGVja2JveEN1c3RvbSB9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
