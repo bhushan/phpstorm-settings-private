@@ -113,89 +113,86 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/GraphQL.result.json" timestamp="1593973572564">
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" timestamp="1594026149286">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/.gitignore" timestamp="1594026187738">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/Auth/RegisterController.php" timestamp="1594025953740">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="50" column="64" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/routes/web.php" timestamp="1594026331663">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/Auth/LoginController.php" timestamp="1594025932133">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/app/Models/User.php" timestamp="1594025785690">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2014_10_12_100000_create_password_resets_table.php" timestamp="1594026134754">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="32" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="29" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/Auth/ConfirmPasswordController.php" timestamp="1594025938937">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1594026111632">
+        <mark key="'" line="33" column="31" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="32" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/database/factories/UserFactory.php" timestamp="1594026087324">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1594025491835">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/TrustHosts.php" timestamp="1593776306233">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/TrustProxies.php" timestamp="1593776312980">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/routes/web.php" timestamp="1593973323311">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/resources/views/welcome.blade.php" timestamp="1593974035754">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/CheckForMaintenanceMode.php" timestamp="1593774570566">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1593776319829">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/" timestamp="1593973796143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Controllers/Auth/RegisterController.php" timestamp="1593972695678">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="42" column="5" />
-        <mark key="." line="42" column="4" />
+      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/HomeController.php" timestamp="1594025623920">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="39" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="15" column="38" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1593973662203">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Kernel.php" timestamp="1593776379336">
-        <mark key="[" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Controllers/HomeController.php" timestamp="1593972380716">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/Auth/VerificationController.php" timestamp="1594025973951">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/graphql-backend/config/app.php" timestamp="1593973701056">
-        <mark key="'" line="224" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/TrimStrings.php" timestamp="1593776294988">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Middleware/EncryptCookies.php" timestamp="1593776225147">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/graphql-backend/app/Http/Controllers/Auth/ForgotPasswordController.php" timestamp="1593973019174">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="19" filename="$USER_HOME$/Documents/Code/ecommerce/application/models/ACL.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Code/ecommerce/application/configs/application.ini" />
       <jump line="244" column="29" filename="$USER_HOME$/workspace/bas/web/application/modules/basworld/controllers/VehicleController.php" />
       <jump line="313" column="16" filename="$USER_HOME$/workspace/bas/erp/extranet/application/vbd/application/modules/employee/controllers/IndexController.php" />
@@ -295,15 +292,16 @@
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Orders/Models/Order.php" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/Code/graphql-backend/app/Modules/Misc/Traits/RecordsActivity.php" />
       <jump line="224" column="0" filename="$USER_HOME$/Documents/Code/graphql-backend/config/app.php" />
+      <jump line="33" column="31" filename="$USER_HOME$/Documents/Code/medi/database/migrations/2014_10_12_000000_create_users_table.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICdoZWwnOyA/Cg==</text>
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgTW9kZWwgRmFjdG9yaWVzCnwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQp8CnwgVGhpcyBkaXJlY3Rvcnkgc2hvdWxkIGNvbnRhaW4gZWFjaCBvZiB0aGUgbW9kZWwgZmFjdG9yeSBkZWZpbml0aW9ucyBmb3IKfCB5b3VyIGFwcGxpY2F0aW9uLiBGYWN0b3JpZXMgcHJvdmlkZSBhIGNvbnZlbmllbnQgd2F5IHRvIGdlbmVyYXRlIG5ldwp8IG1vZGVsIGluc3RhbmNlcyBmb3IgdGVzdGluZyAvIHNlZWRpbmcgeW91ciBhcHBsaWNhdGlvbidzIGRhdGFiYXNlLgp8CiovCgoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>ValidatorCon</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
@@ -312,31 +310,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdvcmRlcl9pZCcpCiAgICAgICAgICAgICAgICAtPnJlZmVyZW5jZXMoJ2lkJykKICAgICAgICAgICAgICAgIC0+b24oJ29yZGVycycpCiAgICAgICAgICAgICAgICAtPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICdoZWwnOyA/Cg==</text>
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgTW9kZWwgRmFjdG9yaWVzCnwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQp8CnwgVGhpcyBkaXJlY3Rvcnkgc2hvdWxkIGNvbnRhaW4gZWFjaCBvZiB0aGUgbW9kZWwgZmFjdG9yeSBkZWZpbml0aW9ucyBmb3IKfCB5b3VyIGFwcGxpY2F0aW9uLiBGYWN0b3JpZXMgcHJvdmlkZSBhIGNvbnZlbmllbnQgd2F5IHRvIGdlbmVyYXRlIG5ldwp8IG1vZGVsIGluc3RhbmNlcyBmb3IgdGVzdGluZyAvIHNlZWRpbmcgeW91ciBhcHBsaWNhdGlvbidzIGRhdGFiYXNlLgp8CiovCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9waHAgJ3NvbWUnID8+Cg==</text>
+        <text encoding="base64">Ci8qKiBAdmFyIEZhY3RvcnkgJGZhY3RvcnkgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdm9pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdm9pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdm9pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdm9pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICdoZWwnOyA/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGlmIChzZXNzaW9uKCdzdGF0dXMnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBzZXNzaW9uKCdzdGF0dXMnKSB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRpZgo=</text>
+        <text encoding="base64">PD9waHAgJ3NvbWUnID8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+Cg==</text>
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
