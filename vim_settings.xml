@@ -128,12 +128,6 @@
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/resources/views/auth/login.blade.php" timestamp="1594036276126">
-        <mark key="[" line="24" column="53" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="37" column="43" />
-      </file>
       <file name="$USER_HOME$/Documents/Code/medi/.gitignore" timestamp="1594026187738">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="13" column="13" />
@@ -143,7 +137,7 @@
       <file name="/a.dummy" timestamp="1594026594760">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1594032044358">
+      <file name="/GraphQL.result.json" timestamp="1594036650837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/medi/resources/sass/app.scss" timestamp="1594034779620">
