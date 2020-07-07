@@ -113,55 +113,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Controllers/ProfileController.php" timestamp="1594026757971">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="29" />
+      <file name="$USER_HOME$/Documents/Code/medi/database/seeds/DatabaseSeeder.php" timestamp="1594099707390">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594026836482">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" timestamp="1594026149286">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="32" column="32" />
-        <mark key="^" line="32" column="32" />
-        <mark key="." line="32" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/.gitignore" timestamp="1594026187738">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="12" />
-      </file>
-      <file name="/a.dummy" timestamp="1594026594760">
-        <mark key="[" line="0" column="4" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1594098105373">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/resources/sass/app.scss" timestamp="1594034779620">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/a.dummy" timestamp="1594099365410">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Code/medi/resources/views/layouts/app.blade.php" timestamp="1594033926070">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/routes/web.php" timestamp="1594026748683">
-        <mark key="[" line="14" column="51" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="54" />
+      <file name="$USER_HOME$/Documents/Code/medi/database/seeds/IdentityTypeSeeder.php" timestamp="1594099601083">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Models/User.php" timestamp="1594027527371">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="60" />
+      <file name="$USER_HOME$/Documents/Code/medi/app/Models/User.php" timestamp="1594100089500">
+        <mark key="[" line="42" column="42" />
+        <mark key="]" line="43" column="48" />
+        <mark key="." line="43" column="47" />
+        <mark key="^" line="43" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Code/medi/tests/Feature/ExampleTest.php" timestamp="1594026849947">
         <mark key="[" line="16" column="0" />
@@ -172,29 +150,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2014_10_12_100000_create_password_resets_table.php" timestamp="1594026134754">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="32" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="29" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/resources/js/app.js" timestamp="1594033842602">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1594026428358">
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="66" />
-        <mark key="^" line="21" column="66" />
-        <mark key="." line="21" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Providers/RouteServiceProvider.php" timestamp="1594026480003">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="17" column="3" />
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051500_create_users_table.php" timestamp="1594099767781">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="65" />
+        <mark key="^" line="19" column="65" />
+        <mark key="." line="19" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Code/medi/.env" timestamp="1594027634572">
         <mark key="[" line="31" column="18" />
@@ -202,17 +162,43 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1594026111632">
-        <mark key="'" line="33" column="31" />
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="31" />
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051454_create_identitytype_table.php" timestamp="1594099122770">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="32" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1594098105373">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/resources/sass/app.scss" timestamp="1594034779620">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/database/seeds/RoleSeeder.php" timestamp="1594099616312">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/resources/js/app.js" timestamp="1594033842602">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Code/medi/resources/views/welcome.blade.php" timestamp="1594033555643">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051455_create_identities_table.php" timestamp="1594099431819">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="32" />
+        <mark key="^" line="36" column="32" />
+        <mark key="." line="36" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -320,11 +306,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9zdHJvbmc+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRlbnRpdHkoKQogICAgewogICAgICAgIHJldHVybiAKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zdHJvbmc+</text>
+        <text>identity</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
@@ -333,31 +319,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxiLWlucHV0IHR5cGU9InBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iKyA4IGNoYXJhY3RlcnMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzd29yZC1yZXZlYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ItaW5wdXQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJwYXNzd29yZCIgdHlwZT0icGFzc3dvcmQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdwYXNzd29yZCcpIGlzLWludmFsaWQgQGVuZGVycm9yIiBuYW1lPSJwYXNzd29yZCIgcmVxdWlyZWQgYXV0b2NvbXBsZXRlPSJjdXJyZW50LXBhc3N3b3JkIj4tLX19Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRlbnRpdHkoKQogICAgewogICAgICAgIHJldHVybiAKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9iLWZpZWxkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXItPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGItZmllbGQgbGFiZWw9IlBhc3N3b3JkIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJwYXNzd29yZCIgdHlwZT0icGFzc3dvcmQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdwYXNzd29yZCcpIGlzLWludmFsaWQgQGVuZGVycm9yIiBuYW1lPSJwYXNzd29yZCIgcmVxdWlyZWQgYXV0b2NvbXBsZXRlPSJjdXJyZW50LXBhc3N3b3JkIj4tLX19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJpd2FudG15dHJlYXN1cmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9iLWZpZWxkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gRm9udHMKLy9AaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU51bml0bycpOwoKLy8gVmFyaWFibGVzCi8vQGltcG9ydCAndmFyaWFibGVzJzsKCi8vIEJvb3RzdHJhcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGItZmllbGQgbGFiZWw9IlBhc3N3b3JkIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQ1NSRiBUb2tlbiAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJpd2FudG15dHJlYXN1cmUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU2NyaXB0cyAtLT4K</text>
+        <text encoding="base64">Ly8gRm9udHMKLy9AaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU51bml0bycpOwoKLy8gVmFyaWFibGVzCi8vQGltcG9ydCAndmFyaWFibGVzJzsKCi8vIEJvb3RzdHJhcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRm9udHMgLS0+CiAgICA8bGluayByZWw9ImRucy1wcmVmZXRjaCIgaHJlZj0iLy9mb250cy5nc3RhdGljLmNvbSI+CiAgICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9TnVuaXRvIiByZWw9InN0eWxlc2hlZXQiPgoKICAgIDwhLS0gU3R5bGVzIC0tPgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gQ1NSRiBUb2tlbiAtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdidWVmeS9kaXN0L2J1ZWZ5LmNzcycK</text>
+        <text encoding="base64">ICAgIDwhLS0gU2NyaXB0cyAtLT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
