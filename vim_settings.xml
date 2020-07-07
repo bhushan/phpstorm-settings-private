@@ -129,31 +129,22 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/seeds/IdentityTypeSeeder.php" timestamp="1594099601083">
+      <file name="$USER_HOME$/Documents/Code/medi/database/seeds/IdentityTypeSeeder.php" timestamp="1594102967346">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="10" />
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/app/Models/User.php" timestamp="1594100161106">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/Code/medi/app/Models/User.php" timestamp="1594102472134">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/tests/Feature/ExampleTest.php" timestamp="1594026849947">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/resources/views/profiles/show.blade.php" timestamp="1594026923594">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051500_create_users_table.php" timestamp="1594099767781">
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051500_create_users_table.php" timestamp="1594103018323">
         <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="65" />
+        <mark key="]" line="19" column="53" />
         <mark key="^" line="19" column="65" />
-        <mark key="." line="19" column="64" />
+        <mark key="." line="19" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Code/medi/.env" timestamp="1594027634572">
         <mark key="[" line="31" column="18" />
@@ -161,7 +152,7 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051454_create_identitytype_table.php" timestamp="1594099122770">
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051454_create_identitytype_table.php" timestamp="1594102957615">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="21" column="33" />
         <mark key="^" line="21" column="33" />
@@ -176,7 +167,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/seeds/RoleSeeder.php" timestamp="1594099616312">
+      <file name="$USER_HOME$/Documents/Code/medi/database/seeds/RoleSeeder.php" timestamp="1594102971615">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="31" />
         <mark key="^" line="14" column="31" />
@@ -193,7 +184,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051455_create_identities_table.php" timestamp="1594099431819">
+      <file name="$USER_HOME$/Documents/Code/medi/database/migrations/2020_07_07_051455_create_identities_table.php" timestamp="1594102954264">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="36" column="32" />
         <mark key="^" line="36" column="32" />
@@ -305,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWRlbnRpdHk6Ogo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>identity</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
@@ -318,31 +309,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxiLWlucHV0IHR5cGU9InBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iKyA4IGNoYXJhY3RlcnMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzd29yZC1yZXZlYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ItaW5wdXQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWRlbnRpdHk6Ogo=</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgc3RhdGljIGZ1bmN0aW9uIGJvb3QoKQogICAgewogICAgICAgIHBhcmVudDo6Ym9vdCgpOwogICAgICAgCiAgICAgICAgc3RhdGljOjpjcmVhdGVkKGZ1bmN0aW9uICgkdXNlcikgewogICAgICAgICAgICAkdXNlci0+dXBkYXRlKFsnaWRlbnRpdHlfaWQnID0+IDFdKTsKICAgICAgICB9KTsKICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRlbnRpdHkoKQogICAgewogICAgICAgIHJldHVybiAKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpZGVudGl0eSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5oYXNPbmUoSWRlbnRpdHk6OmNsYXNzKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXItPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSWRlbnRpdHk6Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJwYXNzd29yZCIgdHlwZT0icGFzc3dvcmQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdwYXNzd29yZCcpIGlzLWludmFsaWQgQGVuZGVycm9yIiBuYW1lPSJwYXNzd29yZCIgcmVxdWlyZWQgYXV0b2NvbXBsZXRlPSJjdXJyZW50LXBhc3N3b3JkIj4tLX19Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRlbnRpdHkoKQogICAgewogICAgICAgIHJldHVybiAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9iLWZpZWxkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXItPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGItZmllbGQgbGFiZWw9IlBhc3N3b3JkIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJwYXNzd29yZCIgdHlwZT0icGFzc3dvcmQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdwYXNzd29yZCcpIGlzLWludmFsaWQgQGVuZGVycm9yIiBuYW1lPSJwYXNzd29yZCIgcmVxdWlyZWQgYXV0b2NvbXBsZXRlPSJjdXJyZW50LXBhc3N3b3JkIj4tLX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJpd2FudG15dHJlYXN1cmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9iLWZpZWxkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gRm9udHMKLy9AaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU51bml0bycpOwoKLy8gVmFyaWFibGVzCi8vQGltcG9ydCAndmFyaWFibGVzJzsKCi8vIEJvb3RzdHJhcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGItZmllbGQgbGFiZWw9IlBhc3N3b3JkIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQ1NSRiBUb2tlbiAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJpd2FudG15dHJlYXN1cmUiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/g</text>
