@@ -2,7 +2,7 @@
   <tool name="Custom PHP CS Fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer " />
-      <option name="PARAMETERS" value="--config=/home/bhushangaikwad/.php_cs --allow-risky=yes fix $FileDir$/$FileName$" />
+      <option name="PARAMETERS" value="--config=/home/bhushan/.php_cs --allow-risky=yes fix $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
