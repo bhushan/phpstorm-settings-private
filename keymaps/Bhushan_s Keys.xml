@@ -21,6 +21,7 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDuplicate" />
+  <action id="EditorScrollToCenter" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
@@ -52,6 +53,9 @@
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -80,6 +84,7 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
@@ -109,9 +114,7 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.FocusTextFilter" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
+  <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
