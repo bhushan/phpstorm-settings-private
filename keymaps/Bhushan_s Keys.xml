@@ -36,6 +36,9 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="GoToProject">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
@@ -52,9 +55,6 @@
   </action>
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="NextSplitter">
